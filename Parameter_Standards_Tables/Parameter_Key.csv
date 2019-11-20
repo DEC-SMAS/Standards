@@ -1,0 +1,121 @@
+PCODE,cas_rn,Parameter.mes.EQUIS,Parameter.EQUIS,Parameter.Units.EQUIS,EQUIS_FRACTION,result_unit_EQUIS,Parameter.mes.EDD,result_unit_EDD,Parameter.mes.USGS,result_unit_USGS
+99832,17060-07-0,"1,2-Dichloroethane-D4 ;(total,%)","1,2-Dichloroethane-D4","(total,%)",T,%,"1,2-Dichloroethane-D4",,"1,2-Dichloroethane-d4,sur, wu",%
+74023,ALK,"Alkalinity, Total (As CaCO3) ;(,mg/l)","Alkalinity, Total (As CaCO3)","(,mg/l)",T,"NA, mg/l","ALKALINITY, TOTAL (AS CaCO3)",mg/l,ALK CACO3 STABL,mg/l CaCO3
+74023,ALK,"Alkalinity, Total (As CaCO3) ;(total,mg/l)","Alkalinity, Total (As CaCO3)","(total,mg/l)",T,"total, mg/l","ALKALINITY, TOTAL (AS CaCO3)",mg/l,ALK CACO3 STABL,mg/l CaCO3
+74023,ALK,"ALKALINITY, TOTAL (AS CaCO3) ;(total,mg/l)","ALKALINITY, TOTAL (AS CaCO3)","(total,mg/l)",T,"total, mg/l","ALKALINITY, TOTAL (AS CaCO3)",mg/l,ALK CACO3 STABL,mg/l CaCO3
+1106,,"Aluminum ;(dissolved,ug/l)",Aluminum,"(dissolved,ug/l)",D,ug/l,,,"Aluminum, wf",ug/l
+1105,7429-90-5,"Aluminum ;(total,ug/l)",Aluminum,"(total,ug/l)",T,ug/l,Aluminum,ug/l,"Aluminum, wu,recov",ug/l
+1000,7440-38-2,"Arsenic ;(total,ug/l)",Arsenic,"(total,ug/l)",T,ug/l,Arsenic,ug/l,"Arsenic, wf",ug/l
+32101,75-27-4,"Bromodichloromethane ;(total,ug/l)",Bromodichloromethane,"(total,ug/l)",T,ug/l,,,"CHBrCl2, wu",ug/l
+1025,,"Cadmium ;(dissolved,ug/l)",Cadmium,"(dissolved,ug/l)",D,ug/l,,,"Cadmium, wf",ug/l
+1027,7440-43-9,"Cadmium ;(total,ug/l)",Cadmium,"(total,ug/l)",T,ug/l,Cadmium,ug/l,"Cadmium, wu",ug/l
+52288,7440-70-2,"Calcium ;(total,mg/l)",Calcium,"(total,mg/l)",T,"total, mg/l",,,"Calcium, wu",mg/l
+52505,7440-70-2,"Calcium ;(total,ug/l)",Calcium,"(total,ug/l)",T,ug/l,Calcium,,"Calcium, wu",ug/l
+99134,,"Carbon, Dissolved Organic ;(dOC) (dissolved,mg/l)","Carbon, Dissolved Organic","(dOC) (dissolved,mg/l)",D,"dissolved, mg/l",,,"DOC,water,insitu,est",mg/l
+99220,16887-00-6,"Chloride (As Cl) ;(total,mg/l)",Chloride (As Cl),"(total,mg/l)",T,mg/l,CHLORIDE (AS CL),mg/l,"Chloride, wu",mg/l
+99220,16887-00-6,"CHLORIDE (AS CL) ;(total,mg/l)",CHLORIDE (AS CL),"(total,mg/l)",T,mg/l,CHLORIDE (AS CL),mg/l,"Chloride, wu",mg/l
+34306,124-48-1,"Chlorodibromomethane ;(total,ug/l)",Chlorodibromomethane,"(total,ug/l)",T,ug/l,,,CHLORODIBROMOMETTOTW,ug/l
+32005,,"Chloroform ;(total,ug/l)",Chloroform,"(total,ug/l)",T,ug/l,,,,
+30201,74-87-3,"Chloromethane ;(total,ug/l)",Chloromethane,"(total,ug/l)",T,ug/l,,,"Chloromethane, wu",ug/l
+32284,,"Chlorophyll a ;(total,ug/l)",Chlorophyll a,"(total,ug/l)",T,ug/l,Chlorophyll A,ug/l,,
+,,"Coliform ;(,cfu/100ml)",Coliform,"(,cfu/100ml)",U,cfu/100ml,,,,
+61213,,"Coliform ;(total,cfu/100ml)",Coliform,"(total,cfu/100ml)",T,cfu/100ml,Coliform,,,
+90095,,"Conductivity ;(total,umhos/cm)",Conductivity,"(total,umhos/cm)",T,umhos/cm,Conductivity,,,
+90095,COND,"Conductivity at 25 Degrees Celsius ;(total,umhos/cm)",Conductivity at 25 Degrees Celsius,"(total,umhos/cm)",T,umhos/cm,Conductivity at 25 Degrees Celsius,,,
+1040,,"Copper ;(dissolved,ug/l)",Copper,"(dissolved,ug/l)",D,ug/l,,,"Copper, wf",ug/l
+52296,7440-50-8,"Copper ;(total,ug/l)",Copper,"(total,ug/l)",T,ug/l,Copper,ug/l,"Copper, wu",ug/l
+,,"Dibromochloromethane ;(total,ug/l)",Dibromochloromethane,"(total,ug/l)",T,ug/l,,,,
+,,"Dissolved Organic Carbon ;(dissolved,mg/l)",Dissolved Organic Carbon,"(dissolved,mg/l)",D,"dissolved, mg/l",,,,
+,,"Dissolved Organic Carbon ;(total,mg/l)",Dissolved Organic Carbon,"(total,mg/l)",T,"total, mg/l",,,,
+300,7782-44-7,"Dissolved Oxygen ;(,mg/l)",Dissolved Oxygen,"(,mg/l)",U,mg/l,Dissolved Oxygen,,Dissolved oxygen,mg/l
+,,"Fecal Coliform ;(,cfu/100ml)",Fecal Coliform,"(,cfu/100ml)",U,cfu/100ml,,,,
+61215,,"Fecal Coliform ;(total,cfu/100ml)",Fecal Coliform,"(total,cfu/100ml)",T,cfu/100ml,Fecal Coliform,,,
+951,16984-48-8,"Fluoride ;(total,mg/l)",Fluoride,"(total,mg/l)",T,mg/l,Fluoride,,"Fluoride, wu",mg/l
+,,"Fluoride, undistilled ;(total,mg/l)","Fluoride, undistilled","(total,mg/l)",T,"total, mg/l",,,,
+903,HARD,"Hardness (As CaCO3) ;(total,mg/l)",Hardness (As CaCO3),"(total,mg/l)",T,mg/l,HARDNESS (AS CACO3),mg/l,"Noncarbote hardness, wu,lab",mg/l CaCO3
+903,HARD,"HARDNESS (AS CACO3) ;(total,mg/l)",HARDNESS (AS CACO3),"(total,mg/l)",T,mg/l,HARDNESS (AS CACO3),mg/l,"Noncarbote hardness, wu,lab",mg/l CaCO3
+71885,7439-89-6,"Iron ;(total,ug/l)",Iron,"(total,ug/l)",T,ug/l,Iron,ug/l,"Iron, wu",ug/l
+1049,,"Lead ;(dissolved,ug/l)",Lead,"(dissolved,ug/l)",T,ug/l,,,"Lead, wf",ug/l
+52298,7439-92-1,"Lead ;(total,ug/l)",Lead,"(total,ug/l)",T,ug/l,Lead,ug/l,"Lead, wu",ug/l
+927,7439-95-4,"Magnesium ;(total,mg/l)",Magnesium,"(total,mg/l)",T,mg/l,Magnesium,ug/l,"Magnesium, wu,recov",mg/l
+927,7439-95-4,"Magnesium ;(total,ug/l)",Magnesium,"(total,ug/l)",T,ug/l,Magnesium,ug/l,"Magnesium, wu,recov",mg/l
+71883,7439-96-5,"Manganese ;(total,ug/l)",Manganese,"(total,ug/l)",T,ug/l,Manganese,ug/l,"Manganese, wu",ug/l
+50286,7439-97-6,"Mercury (,ppt)",Mercury ,"(,ppt)",U,ppt,,,"Mercury, wu",ng/l
+50286,7439-97-6,"Mercury ;(total,ng/l)",Mercury,"(total,ng/l)",T,ng/l,Mercury,ug/l,"Mercury, wu",ng/l
+50286,7439-97-6,"Mercury ;(total,ppt)",Mercury,"(total,ppt)",T,ppt,Mercury,ug/l,"Mercury, wu",ng/l
+50286,7439-97-6,"Mercury ;(total,ug/l)",Mercury,"(total,ug/l)",T,ug/l,Mercury,ug/l,"Mercury, wu",ng/l
+,,"Methylene Chloride ;(total,ug/l)",Methylene Chloride,"(total,ug/l)",T,ug/l,,,,
+1065,,"Nickel ;(dissolved,ug/l)",Nickel,"(dissolved,ug/l)",D,ug/l,,,"Nickel, wf",ug/l
+52300,7440-02-0,"Nickel ;(total,ug/l)",Nickel,"(total,ug/l)",T,ug/l,Nickel,ug/l,"Nickel, wu",ug/l
+610,7664-41-7,"Nitrogen, Ammonia (As N) ;(total,mg/l)","Nitrogen, Ammonia (As N)","(total,mg/l)",T,mg/l,"Nitrogen, ammonia (As N)",mg/l,"Ammonia, wu",mg/l as N
+610,7664-41-7,"Nitrogen, ammonia (As N) ;(total,mg/l)","Nitrogen, ammonia (As N)","(total,mg/l)",T,mg/l,"Nitrogen, ammonia (As N)",mg/l,"Ammonia, wu",mg/l as N
+629,,"Nitrogen, Kjeldahl, Total ;(,mg/l)","Nitrogen, Kjeldahl, Total","(,mg/l)",T,"NA, mg/l","Nitrogen, Kjeldahl, Total",,,
+629,,"NITROGEN, KJELDAHL, TOTAL ;(total,mg/l)","NITROGEN, KJELDAHL, TOTAL","(total,mg/l)",T,"total, mg/l","NITROGEN, KJELDAHL, TOTAL",,,
+629,,"Nitrogen, Kjeldahl, Total ;(total,mg/l)","Nitrogen, Kjeldahl, Total","(total,mg/l)",T,"total, mg/l","Nitrogen, Kjeldahl, Total",,,
+620,14797-55-8,"Nitrogen, Nitrate (As N) ;(,mg/l)","Nitrogen, Nitrate (As N)","(,mg/l)",U,mg/l,"Nitrogen, Nitrate (As N)",,"Nitrate, wu",mg/l as N
+620,14797-55-8,"NITROGEN, NITRATE (AS N) ;(total,mg/l)","NITROGEN, NITRATE (AS N)","(total,mg/l)",T,mg/l,"NITROGEN, NITRATE (AS N)",mg/l,"Nitrate, wu",mg/l as N
+620,14797-55-8,"Nitrogen, Nitrate (As N) ;(total,mg/l)","Nitrogen, Nitrate (As N)","(total,mg/l)",T,mg/l,"NITROGEN, NITRATE",mg/l,"Nitrate, wu",mg/l as N
+630,,"Nitrogen, Nitrite + Nitrate ;(total,mg/l)","Nitrogen, Nitrite + Nitrate","(total,mg/l)",T,"total, mg/l",Nitrate+Nitrite as Nitrogen,mg/l,"NO3+NO2, wu",mg/l as N
+630,,"Nitrate+Nitrite as Nitrogen ;(total,mg/l)",Nitrate+Nitrite as Nitrogen,"(total,mg/l)",T,"total, mg/l",Nitrate+Nitrite as Nitrogen,mg/l,"NO3+NO2, wu",mg/l as N
+630,,"Nitrogen, Nitrate-Nitrite ;(,mg/l)","Nitrogen, Nitrate-Nitrite","(,mg/l)",U,"NA, mg/l","Nitrogen, Nitrate-Nitrite",,,
+630,,"Nitrogen, Nitrate-Nitrite ;(total,mg/l)","Nitrogen, Nitrate-Nitrite","(total,mg/l)",T,"total, mg/l",,,,
+615,14797-65-0,"Nitrogen, Nitrite ;(,mg/l)","Nitrogen, Nitrite","(,mg/l)",U,mg/l,"Nitrogen, Nitrite",mg/l,"Nitrite, wu",mg/l as N
+615,14797-65-0,"NITROGEN, NITRITE ;(total,mg/l)","NITROGEN, NITRITE","(total,mg/l)",T,mg/l,"NITROGEN, NITRITE",mg/l,"Nitrite, wu",mg/l as N
+615,14797-65-0,"Nitrogen, Nitrite ;(total,mg/l)","Nitrogen, Nitrite","(total,mg/l)",T,mg/l,"NITROGEN, NITRITE",mg/l,"Nitrite, wu",mg/l as N
+,,"Orthophosphate as Phosphorus, Dissolved ;(dissolved,mg/l)","Orthophosphate as Phosphorus, Dissolved","(dissolved,mg/l)",D,"dissolved, mg/l",,,,
+,,"p-Bromofluorobenzene ;(total,%)",p-Bromofluorobenzene,"(total,%)",T,%,,,,
+400,PH,"pH ;(,ph units)",pH,"(,ph units)",U,pH units,pH,pH units,pH,std units
+400,PH,"PH ;(total,pH units)",PH,"(total,pH units)",T,pH units,PH,pH units,pH,std units
+400,PH,"pH ;(total,ph units)",pH,"(total,ph units)",T,pH units,PH,pH units,pH,std units
+400,PH,"pH (Water) ;(total,ph units)",pH (Water),"(total,ph units)",T,pH units,pH (Water),pH units,pH,std units
+,,"Phenolics, Total Recoverable ;(,mg/l)","Phenolics, Total Recoverable","(,mg/l)",U,"NA, mg/l",,,,
+,,"Phenolics, Total Recoverable ;(total,mg/l)","Phenolics, Total Recoverable","(total,mg/l)",T,"total, mg/l",,,,
+,,"PHENOLICS, TOTAL RECOVERABLE ;(total,mg/l)","PHENOLICS, TOTAL RECOVERABLE","(total,mg/l)",T,"total, mg/l",,,,
+,,"Phosphate Ion ;(dissolved,mg/l)",Phosphate Ion,"(dissolved,mg/l)",D,"dissolved, mg/l",,,,
+,,"Phosphate Ion ;(,mg/l)",Phosphate Ion,"(,mg/l)",U,"NA, mg/l",,,,
+,,"Phosphate Ion ;(total,mg/l)",Phosphate Ion,"(total,mg/l)",T,"total, mg/l",,,,
+,,"Phosphorus ;(,mg/l)",Phosphorus,"(,mg/l)",U,"NA, mg/l",,,,
+52635,,"Phosphorus ;(total,mg/l)",Phosphorus,"(total,mg/l)",T,"total, mg/l","PHOSPHORUS, TOTAL (AS P)",mg/l,,
+,,"Phosphorus, Dissolved Orthophosphate (As P) ;(dissolved,mg/l)","Phosphorus, Dissolved Orthophosphate (As P)","(dissolved,mg/l)",D,"dissolved, mg/l",,,,
+,,"Phosphorus, Dissolved Orthophosphate (As P) ;(total,mg/l)","Phosphorus, Dissolved Orthophosphate (As P)","(total,mg/l)",T,"total, mg/l",,,,
+52635,,"PHOSPHORUS, TOTAL (AS P) ;(total,mg/l)","PHOSPHORUS, TOTAL (AS P)","(total,mg/l)",T,"total, mg/l",Phosphorus,mg/l,,
+52281,,"Potassium ;(total,mg/l)",Potassium,"(total,mg/l)",T,"total, mg/l",,,,
+82034,,"Potassium ;(total,ug/l)",Potassium,"(total,ug/l)",T,ug/l,,,,
+52301,93-72-1,"Silver ;(total,ug/l)",Silver,"(total,ug/l)",T,ug/l,Silver,ug/l,"Silver, wu",ug/l
+52508,7440-23-5,"Sodium ;(total,mg/l)",Sodium,"(total,mg/l)",T,"total, mg/l",Sodium,,"Sodium, wu",ug/l
+52290,7440-23-6,"Sodium ;(total,ug/l)",Sodium,"(total,ug/l)",T,ug/l,,,"Sodium, wu",mg/l
+90096,,"Specific Conductance ;(dissolved,umhos/cm)",Specific Conductance,"(dissolved,umhos/cm)",D,umhos/cm,,,,
+,,"Specific Conductance ;(,umhos/cm)",Specific Conductance,"(,umhos/cm)",U,umhos/cm,,,,
+90095,,"SPECIFIC CONDUCTANCE ;(total,umhos/cm)",SPECIFIC CONDUCTANCE,"(total,umhos/cm)",T,umhos/cm,SPECIFIC CONDUCTANCE,,,
+90095,,"Specific Conductance ;(total,umhos/cm)",Specific Conductance,"(total,umhos/cm)",T,umhos/cm,Specific Conductance,,,
+946,14808-79-8,"SULFATE (AS SO4) ;(total,mg/l)",SULFATE (AS SO4),"(total,mg/l)",T,mg/l,SULFATE (AS SO4),,"Sulfate, wu",mg/l
+946,14808-79-8,"Sulfate (As SO4) ;(total,mg/l)",Sulfate (As SO4),"(total,mg/l)",T,mg/l,Sulfate (As SO4),,"Sulfate, wu",mg/l
+10,,"Temperature ;(,deg c)",Temperature,"(,deg c)",U,deg c,Temperature,,"Temperature, water",deg C
+10,,"Temperature ;(total,deg c)",Temperature,"(total,deg c)",T,deg c,,,"Temperature, water",deg C
+,,"Temperature of pH Alysis ;(total,deg c)",Temperature of pH Alysis,"(total,deg c)",T,deg c,Temperature of pH Alysis,deg c,,
+,,"Tetrachloroethylene (PCE) ;(total,ug/l)",Tetrachloroethylene (PCE),"(total,ug/l)",T,ug/l,,,,
+,,"Toluene-D8 ;(total,%)",Toluene-D8,"(total,%)",T,%,,,,
+,,"Total Carbon ;(dissolved,mg/l)",Total Carbon,"(dissolved,mg/l)",D,"dissolved, mg/l",,,,
+,,"Total Carbon ;(total,mg/l)",Total Carbon,"(total,mg/l)",T,"total, mg/l",,,,
+TDS,,"Total Dissolved Solids (Residue, Filterable) ;(dissolved,mg/l)","Total Dissolved Solids (Residue, Filterable)","(dissolved,mg/l)",D,"dissolved, mg/l",,,,
+TDS,,"Total Dissolved Solids (Residue, Filterable) ;(,mg/l)","Total Dissolved Solids (Residue, Filterable)","(,mg/l)",U,"NA, mg/l",,,,
+TDS,,"Total Dissolved Solids (Residue, Filterable) ;(total,mg/l)","Total Dissolved Solids (Residue, Filterable)","(total,mg/l)",T,"total, mg/l",,,,
+TDS,,"TOTAL DISSOLVED SOLIDS (RESIDUE, FILTERABLE) ;(total,mg/l)","TOTAL DISSOLVED SOLIDS (RESIDUE, FILTERABLE)","(total,mg/l)",T,"total, mg/l","TOTAL DISSOLVED SOLIDS (RESIDUE, FILTERABLE)",mg/l,,
+,,"Total Organic Carbon ;(dissolved,mg/l)",Total Organic Carbon,"(dissolved,mg/l)",D,"dissolved, mg/l",,,,
+,,"TOTAL ORGANIC CARBON ;(total,mg/l)",TOTAL ORGANIC CARBON,"(total,mg/l)",T,"total, mg/l",,,,
+,,"Total Organic Carbon ;(total,mg/l)",Total Organic Carbon,"(total,mg/l)",T,"total, mg/l",,,,
+,,"Total Solids ;(,mg/l)",Total Solids,"(,mg/l)",U,"NA, mg/l",,,,
+,,"Total Solids ;(total,mg/l)",Total Solids,"(total,mg/l)",T,"total, mg/l",,,,
+,,"TOTAL SOLIDS ;(total,mg/l)",TOTAL SOLIDS,"(total,mg/l)",T,"total, mg/l",,,,
+,,"Total Suspended Solids ;(,mg/l)",Total Suspended Solids,"(,mg/l)",U,"NA, mg/l",,,,
+,,"Total Suspended Solids ;(total,mg/l)",Total Suspended Solids,"(total,mg/l)",T,"total, mg/l",,,,
+,,"Total Volatile Solids ;(,mg/l)",Total Volatile Solids,"(,mg/l)",U,"NA, mg/l",,,,
+,,"Total Volatile Solids ;(total,mg/l)",Total Volatile Solids,"(total,mg/l)",T,"total, mg/l",,,,
+,,"TOTAL VOLATILE SOLIDS ;(total,mg/l)",TOTAL VOLATILE SOLIDS,"(total,mg/l)",T,"total, mg/l",,,,
+,,"Trichloroethylene ;(tCE) ;(total,ug/l)",Trichloroethylene,(tCE) ,U,ug/l,,,,
+,,"Turbidity ;(,ntu)",Turbidity,"(,ntu)",U,ntu,TURBIDITY,ntu,,
+,,"TURBIDITY ;(total,ntu)",TURBIDITY,"(total,ntu)",T,ntu,TURBIDITY,ntu,,
+,,"Turbidity ;(total,ntu)",Turbidity,"(total,ntu)",T,ntu,TURBIDITY,ntu,,
+,,"Vinyl Chloride ;(total,ug/l)",Vinyl Chloride,"(total,ug/l)",T,ug/l,,,,
+1090,,"Zinc ;(dissolved,ug/l)",Zinc,"(dissolved,ug/l)",D,ug/l,,,"Zinc, wf",ug/l
+52303,7440-66-6,"Zinc ;(total,ug/l)",Zinc,"(total,ug/l)",T,ug/l,Zinc,ug/l,"Zinc, wu",ug/l

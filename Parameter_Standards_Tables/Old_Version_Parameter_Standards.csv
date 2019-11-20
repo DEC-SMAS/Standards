@@ -1,0 +1,28 @@
+P_NAME,Parameter Names,Units,Health (Water Source),Health(Fish Consumption),Aquatic(Chronic),Aquatic (Acute),Wildlife,Aesthetic(Water Source),Aesthetic(Food Source),Recreation,H(WS)_type_classification,H(FS)_type_classification,A(C)_type_classification,A(A)_type_classification,W_type_classification,E(WS)_type_classification,E(FS)_type_classification,R_type_classification,CAS No from standards,Remarks
+Arsenic_total,"Arsenic, wu",ug/L,50,,,,,,,,"A, A-S, AA, AA-S",,,,,,,,,
+Arsenic_dissolved,"Arsenic, wf",ug/L,,,150,340,,,,,,," A, A-S, AA, AA-S, B, C","A, A-S, AA, AA-S, B, C, D",,,,,,
+Cadmium_total,"Cadmium, wu",ug/L,5,,,,,,,,"A, A-S, AA, AA-S",,,,,,,,,
+Cadmium_dissolved,"Cadmium, wf",ug/L,,,(0.85)exp(0.7852(NonCarb_Hardness)-2.715),(0.85)exp(1.128(NonCarb_Hardness)-3.6867),,,,,,,"A, A-S, AA, AA-S, B, C","A, A-S, AA, AA-S, B, C, D",,,,,,
+Chloride_dissolved,"Chloride, wf",ug/L,"250,000",,,,,,,,"A, A-S, AA, AA-S",,,,,,,,,
+Copper_total,"Copper, wu", ug/L,200,,,,,,,,"A, A-S, AA, AA-S",,,,,,,,,
+Copper_dissolved,"Copper, wf", ug/L,,,(0.96)exp(0.8545(NonCarb_Hardness)-1.702),(0.96)exp(0.9422(NonCarb_Hardness)-1.7),,,,,,,"A, A-S, AA, AA-S, B, C","A, A-S, AA, AA-S, B, C, D",,,,,,
+Dissolved_oxygen,Dissolved oxygen,,see dissolved oxygen table,,,,,,,,,,,,,,,,,
+Flouride_total,"Fluoride, wu",ug/L,"1,500",, (0.02)exp(0.907(NonCarb_Hardness)+7.394),(0.1)exp(0.907(NonCarb_Hardness)+7.394),,,,,"A, A-S, AA, AA-S",,"A, A-S, AA, AA-S, B, C",D,,,,,,
+Iron_total,"Iron, wu",ug/L,,,,,,300,,,,,,,,"A, A-S, AA, AA-S",,,,
+Lead_total,"Lead, wu",ug/L,50,,,,,,,,"A, A-S, AA, AA-S",,,,,,,,,
+Lead_dissolved,"Lead, wf",ug/L,,,(1.46203-((NonCarb_Hardness)(0.145712)))exp(1.273(NonCarb_Hardness)-4.297),(1.46203-((NonCarb_Hardness)(0.145712)))exp(1.273(NonCarb_Hardness)-1.052),,,,,,,"A, A-S, AA, AA-S, B, C","A, A-S, AA, AA-S, B, C, D",,,,,,
+Magnesium_total,"Magnesium, wu,recov",ug/L,35000,,,,,,,,"A, A-S, AA, AA-S",,,,,,,,,
+Manganese_total,"Manganese, wu",ug/L,,,,,,300,,,,,,,,"A, A-S, AA, AA-S",,,,
+Mercury_total,"Mercury, wu",ug/L,0.7,,,,,,,,"A, A-S, AA, AA-S",,,,,,,,,
+Mercury_dissolved,"Mercury, wf",ug/L,,0.0007,0.77,1.4,0.0026,,,,,"A, A-S, AA, AA-S, B, C, D","A, A-S, AA, AA-S, B, C","A, A-S, AA, AA-S, B, C, D","A, A-S, AA, AA-S, B, C, D",,,,,
+Nickel_dissolved,"Nickel, wf",ug/L,,,(0.997)exp(0.846(NonCarb_Hardness)+0.0584),(0.998)exp(0.846(NonCarb_Hardness)+2.255),,,,,,,"A, A-S, AA, AA-S, B, C","A, A-S, AA, AA-S, B, C, D",,,,,,
+Nickel_total,"Nickel, wu",ug/L,100,,,,,,,,"A, A-S, AA, AA-S",,,,,,,,,
+Nitrate_dissolved,"Nitrate, wf",ug/L,10000,,,,,,,,"A, A-S, AA, AA-S",,,,,,,,,
+Nitrate_total,"Nitrate, wu",ug/L,10000,,,,,,,,"A, A-S, AA, AA-S",,,,,,,,,
+Nitrite_total,"Nitrite, wu",ug/L,1000,,100,,,,,,"A, A-S, AA, AA-S",,"A, A-S, AA, AA-S, B, C",,,,,,,A(C) standard is 20 ug/L for trout waters (T or TS)
+Nitrate_and_Nitrite,"NO3+NO2, wu",ug/L,10000,,100,,,,,,"A, A-S, AA, AA-S",,"A, A-S, AA, AA-S, B, C",,,,,,,
+pH,pH,std,6.5<>8.5,,6.5<>8.5,6<>9.5,,,,,"AA, A, AA-S, A-S",,"A, A-S, AA, AA-S, B, C, ",D,,,,,,
+Phenols,"Phenols, wu",ug/L,,,,,,1,5,,,,,,,"A, A-S, AA, AA-S","A, A-S, AA, AA-S, B, C, D",,,Applies to the sum of these substances
+Silver,"Silver, wu",ug/L,50,,0.1,exp(1.72(NonCarb_Hardness)-6.52),,,,,"AA, A, AA-S, A-S",,"A, A-S, AA, AA-S, B, C",D,,,,,,A(C) applies to ionic silver; A(A) class D apply to acid-soluble form
+Sulfate,"Sulfate, wf",ug/L,250000,,,,,,,,"AA, A, AA-S, A-S",,,,,,,,,
+Zinc_dissolved,"Zinc, wf",ug/L,,,exp(0.85(NonCarb_Hardness)+0.50),0.978exp(0.8473(NonCarb_Hardness)+0.884),,,,,,,"A, A-S, AA, AA-S, B, C","A, A-S, AA, AA-S, B, C, D",,,,,,

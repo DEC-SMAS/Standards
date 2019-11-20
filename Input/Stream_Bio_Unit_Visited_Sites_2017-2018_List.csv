@@ -1,0 +1,571 @@
+BASIN,LOCATION,RIVMILE,SITE_ID,LATITUDE,LONGITUDE,NAME,DESCRIPT,WQ_STANDARD,PWL_ID,NED10_Elevation
+6,ABEL,0.2,06-ABEL-0.2,42.649115,-75.786442,Ashbell Brook,entire stream and tribs,C(T),0602-0168,
+8,ADKS,0.5,08-ADKS-0.5,43.65583,-74.67555,Otter Brook and tribs,entire stream and tribs,C(T),0801-0398,
+7,AIND,1.6,07-AIND-1.6,42.6985859,-76.8731403,Indian Creek,At Route 96A bridge,C(TS),0705-0075,180.1068573
+10,ALDE,0.7,10-ALDE-0.7,44.57167,-73.94384,Alder Brook,10m above Rte 3,C(T),1003-0038,364.1180115
+10,ALDE_T,0.6,10-ALDE_T-0.6,44.50115548,-74.01403662,"North Branch Saranac, Lower, minor tribs",stream and selected tribs from mouth to Mud Lake,C(T),1003-0038,
+8,AWAT,2.6,08-AWAT-2.6,43.71033,-75.51623,Atwater Creek,at Graves Rd bridge,AA,0801-0330,565.6852417
+13,BASC_T17,2.4,13-BASC_T17-2.4,42.5359,-74.07721,Unnamed Tributary to Basic Creek,10m downstream of Rte 85/Delaware turnpike bridge,C,1309-0028,420.3892212
+8,BEAU_T2,0.1,08-BEAU_T2-0.1,43.603788,-75.316488,Unnamed Tributary to Beauty Creek,at Burnt Shanty Rd,AA(T),0801-0347,307.6254578
+13,BEER_W,0.2,13-BEER_W-0.2,41.72528,-74.41556,West Beer Kill,25m above where Old Greenfield Rd goes under Rt 52,B(TS),1306-0117,142.2838135
+8,BEEV,0.8,08-BEEV-0.8,43.89806,-75.49389,Beaver River,30 m below Van Amber Rd. bridge(CR 33),C,0801-0197,219.3870697
+8,BEEV_T16,1.5,08-BEEV_T16-1.5,43.92107,-75.18084,Unnamed Tributary to Beaver River,450 meters off Fish Creek Rd.,C(T),0801-0277,459.7703857
+10,BEHA,1,10-BEHA-1,44.67302,-73.72733,Behan Brook,40m above Picketts Corner Rd,C(T),1003-0053,248.4304352
+8,BENE,0.2,08-BENE-0.2,43.67611,-74.70834,Benedict Creek,8miles east of Limekiln Lake,CT,0801-0346,561.0436401
+5,BENN,0.5,05-BENN-0.5,42.26543,-77.59466,Bennetts Creek,40m above Rte 36 bridge,C,0503-0007,340.1655884
+5,BENN,4.6,05-BENN-4.6,42.22197,-77.61391,Bennetts Creek,"Rt. 248, 1mi south of Fall Creek Rd.",C,0503-0007,375.6448364
+5,BENN_T14,2.8,05-BENN_T14-2.8,42.111839,-77.69363,Christian Hollow- Tributary to Bennetts Creek,at Christian Hollow West Union Rd crossing,C,0503-0024,608.8591309
+6,BEVR,1.5,06-BEVR-1.5,42.73444,-75.30972,Beaver Creek,where South Brookfield Rd comes close to stream,C,0601-0053,341.8595886
+14,BISC,0.7,14-BISC-0.7,41.99278,-74.50306,Biscuit Brook,Biscuit Bk above Pigeon Bk at Frost Valley Follow Blue trail to site,C(T),1402-0008,622.0147705
+10,BISH,0.6,10-BISH-0.6,43.4039,-73.53821,Bishop Brook,"rte 149, 50 m below bridge, fields on each side",A(T),1005-0064,63.71675491
+13,BLAG,3.4,13-BLAG-3.4,42.575,-73.408,Black River,upstream of Newton Rd.,C(TS),1310-0043,362.0013123
+9,BLAP_W,7.4,09-BLAP_W-7.4,44.033941,-75.619068,West Branch Black Creek,SR 3A,C(T),0906-0046,207.2425842
+10,BLAR,1.1,10-BLAR-1.1,44.23422,-73.51052,Black River,CR8,C(T),1004-0082,137.0284271
+8,BLCK,1.2,08-BLCK-1.2,44.00566,-76.048717,Black River,Rt.180 bridge,C,0801-0250,79.46499634
+8,BLCK,30,08-BLCK-30,43.99365,-75.631952,Black River,0.9 mi. below new STP,C,0801-0190,203.1824036
+8,BLCK,47.6,08-BLCK-47.6,43.82556,-75.46528,Black River,200 m below Rt. 26A (Rt. 812) bridge,C,0801-0251,220.5890045
+8,BLCK,69.6,08-BLCK-69.6,43.67694,-75.36195,Black River,10 m below Burdicks Crossing Rd. bridge,C,0801-0199,222.8070068
+8,BLCK,76.5,08-BLCK-76.5,43.59583,-75.34611,Black River,120 m above Davis Rd. bridge,CT,0801-0038,244.2650452
+8,BLCK,105.4,08-BLCK-105.4,43.41083,-75.09666,Black River,5 m below Enos Rd./Bellingertown Rd.,CT,0801-0237,391.5184326
+8,BLCK_T132,2,08-BLCK_T132-2,43.51919,-74.914078,Unnamed Tributary to Black River,300 m upstream of South Lake Rd,C(T),0801-0237,607.6449585
+8,BLCK_T30,4.5,08-BLCK_T30-4.5,43.964945,-75.489564,Unnamed Tributary to Black River,"off Aspen Hollow Trail 300m, below beaver pond near powerlines",C,0801-0262,257.1312561
+8,BLCK_T67,0.5,08-BLCK_T67-0.5,43.686001,-75.350711,Unnamed Tributary to Black River,300 m upstream of Grieg Rd.,C(T),0801-0318,255.1088257
+13,BLKH,8.2,13-BLKH-8.2,41.744376,-73.985304,Black Creek,At Riverside Road Bridge,A(T),1301-0203,93.43894958
+13,BLKK,1.1,13-BLKK-1.1,42.71081,-73.98769,Black Creek,10 m below Weaver Rd bridge,C,1311-0024,93.91984558
+17,BLND,3.4,17-BLND-3.4,40.983283,-73.68625,Blind Brook,150 m above gaging station; at Theodore Fremd St.,SC,1702-0130,5.726905346
+10,BOQT,2.8,10-BOQT-2.8,44.361742,-73.391577,Boquet River,500 m above Rt. 22 bridge,C,1004-0037,47.1323967
+10,BOQT,10.8,10-BOQT-10.8,44.264529,-73.40121,Boquet River,stream and selected tribs from Willsboro to Wadhams,A,1004-0039,
+10,BOQT,23.2,10-BOQT-23.2,44.24826,-73.52014,Boquet River,Lee bridge Rd,C(T),1004-0046,122.9727249
+10,BRAY,1.5,10-BRAY-1.5,44.806416,-73.724275,Brandy Brook,stream and tribs from Miner Lake to Chazy Lake,C(T),1002-0018,
+10,BRNC,0.4,10-BRNC-0.4,44.21667,-73.59025,The Branch,9 bridge,AA(T),1004-0040,168.4163971
+8,BRNT,0.1,08-BRNT-0.1,43.695326,-75.263857,Unnamed Tributary to Brantingham Lake,"above Cottage Rd, above lake influence",A,0801-0340,376.7099609
+17,BRNX,5.6,17-BRNX-5.6,40.88,-73.86861,Bronx River,150 m above East Gun Hill Rd. bridge,B,1702-0106,19.46227455
+17,BRNX,12.3,17-BRNX-12.3,40.95944,-73.821995,Bronx River,bridge above Crestview Station,C,1702-0107,29.23230171
+17,BRNX,17.3,17-BRNX-17.3,41.02417,-73.78306,Bronx River,100 m below Bronx River Parkway bridge,C(T),1702-0107,53.67437363
+7,BSWP,1.3,07-BSWP-1.3,42.81111,-76.34306,Bear Swamp Creek,"Apple tree point Rd.
+10m upstream",AAT,0707-0005,395.757782
+6,BTNT_T,1,06-BTNT_T-1,42.455927,-75.313426,"Butternut Creek, Lower, and minor tribs",stream and selected tribs from mouth to Gilbertsville,C(T),0601-0050,
+6,BTNT_T,12,06-BTNT_T-12,42.51171569,-75.27616669,Butternut Creek,"stream and tribs, from Gilbertsville to Morris",C,0601-0140,
+8,BUCC,0.1,08-BUCC-0.1,43.74361097,-74.72286094,Buck Creek,total length of select tribs to Fifth thru Eighth Lks,C(T),0801-0207,
+14,BUSH,0.6,14-BUSH-0.6,42.15111,-74.60111,Bush Kill,off rte 28 east of Arkville at Debari Lane Bridge,C(TS),1403-0100,420.325531
+13,BUSK,0.2,13-BUSK-0.2,41.97043,-74.2774,Bush Kill,Rte 28A; second bridge heading towards CR 42,A(TS),1307-0029,185.9115448
+17,BVBR,0.3,17-BVBR-0.3,40.878102,-73.565952,Beaver Brook,Frost Mill Rd.; 5-10 m below old road bridge in preserve. Park at Preserve and follow red trail to blue trail,C,1702-0153,3.059339285
+5,BWIN_T11,0.7,05-BWIN_T11-0.7,42.10146,-76.68656,Unnamed Tributary to Baldwin Creek,Federal Rd,C,0501-0023,322.7745667
+17,BYRM,1.3,17-BYRM-1.3,41.12389,-73.70472,Byram River,"20m below Rte. 22 bridge, on west side of 	I-684",C(T),1702-0133,112.5357513
+5,CARI,0.2,05-CARI-0.2,42.40856,-77.61823,Carrington Creek,10 m upstream of Evans Rd,ATS,0503-0030,462.1239929
+17,CARL,1.8,17-CARL-1.8,40.71556,-73.32917,Carlls River,at Rt. 27,C(T),1701-0089,4.530451775
+17,CARM,9,17-CARM-9,40.83,-72.90694,Carmans River,below foot bridge at USGS gaging station,C(TS),1701-0102,6.018004894
+17,CARM,9,17-CARM-9,40.83,-72.90694,Carmans River,below foot bridge at USGS gaging station,C(TS),1701-0102,6.018004894
+13,CASP,1.7,13-CASP-1.7,41.63222,-73.92694,Casper Creek,20m above Camelot Rd bridge,C,1301-0195,13.07567024
+6,CATA,1.7,06-CATA-1.7,42.14167,-76.29472,Catatonk Creek,30 m downstream of Glen Mary Drive bridge,C,0603-0031,254.1295013
+13,CATS,6.2,13-CATS-6.2,42.25639,-73.90472,Catskill Creek,50 m above Rt. 23B bridge,B,1309-0004,38.52732086
+7,CAYG,1.1,07-CAYG-1.1,42.41606,-76.52839,Cayuga Lake Inlet,200 m below Rte 13,CT,0705-0059,120.9977036
+6,CAYU,2.1,06-CAYU-2.1,42.00389,-76.52361,Cayuta Creek,100 m above Broad St. bridge,B,0603-0022,242.4486847
+6,CAYU,8.5,06-CAYU-8.5,42.115445,-76.547027,Cayuta Creek,"stream and tribs, from Reniff to Van Etten",B,0603-0064,
+5,CBRO,1.8,05-CBRO-1.8,42.06369,-76.78584,Coldbrook Creek,Maple Ave,C,0501-0027,255.8582153
+5,CDEA,1.8,05-CDEA-1.8,42.33567,-77.68267,Canacadea Creek,100 m above Rt. 21 bridge @gaging station,C,0503-0008,361.6051025
+6,CHAS,0.7,06-CHAS-0.7,42.66092879,-74.96204898,Chase Creek,"total length of select tribs, Colliers to Cooperstown",C,0601-0194,
+5,CHEM,5.4,05-CHEM-5.4,42.00278,-76.635,Chemung River,10 m below Rt. 427  bridge,A,0501-0014,238.4164886
+5,CHEM,15.7,05-CHEM-15.7,42.05833,-76.76056,Chemung River,500 m above power lines crossing river,C,0501-0015,251.3209991
+5,CHEM,33.8,05-CHEM-33.8,42.12615,-77.02605,Chemung River,off River Rd.; dirt road to flood control levee,C,0501-0017,272.0617371
+13,CLAV,0.5,13-CLAV-0.5,42.31139,-73.74306,Claverack Creek,100 m above Co. Rt. 25 bridge,C,1310-0047,12.33803082
+13,CLDS,1.3,13-CLDS-1.3,41.89556,-73.70583,Cold Spring Creek,100m below Homan Rd,B(TS),1305-0011,120.1301498
+10,CLIF,0.1,10-CLIF-0.1,44.28514535,-73.78891463,Nichols Brook,stream and selected tribs fr Upper Jay to Keene Valley,C(T),1004-0071,
+10,CMIL,3.3,10-CMIL-3.3,43.722127,-73.418303,Mill Brook,At Lake Rd,C(T),1005-0024,78.97343445
+13,CNOP_T,0.1,13-CNOP_T-0.1,41.37135,-73.87417,Unnamed Tributary  to  Canopus Creek,"300 m off Horton Hollow Rd, other side of small wetland complex",C,1301-0141,72.09185791
+13,COEY,0.3,13-COEY-0.3,42.4775,-73.79444,Coeymans Creek,200 m above Route 144 bridge,C(TS),1301-0095,24.33210754
+5,COHO,1.4,05-COHO-1.4,42.16751,-77.10477,Cohocton River,"Canada Rd., Kinsella Pk, behind Cinderella softbal",C,0502-0010,284.7779846
+5,COHO,5.9,05-COHO-5.9,42.20678,-77.1642,Cohocton River,"30 m above Co. Rt. 4, Curtis Rd. bridge",C,0502-0010,297.0658264
+5,COHO,7.4,05-COHO-7.4,42.223251,-77.173208,Cohocton River,"stream and selected tribs, from mouth to Savona",C,0502-0010,
+5,COHO,8.9,05-COHO-8.9,42.230494,-77.197879,Cohocton River,50 m downstream of Route 333,C,0502-0010,306.9316711
+5,COHO,11.1,05-COHO-11.1,42.25248346,-77.21677875,Cohocton River,"stream and selected tribs, from mouth to Savona",C,0502-0010,
+5,COHO,13.5,05-COHO-13.5,42.28978,-77.22628,Cohocton River,100m above Co Rt 12 bridge,C,0502-0017,317.67099
+5,COHO,17.3,05-COHO-17.3,42.3124,-77.28228,Cohocton River,100 m above Rt. 15 bridge,C,0502-0017,328.1298828
+5,COHO,17.3,05-COHO-17.3,42.3124,-77.28228,Cohocton River,100 m above Rt. 15 bridge,C,0502-0017,328.1298828
+5,COHO,23.6,05-COHO-23.6,42.36982,-77.36546,Cohocton River,50m below Rt 415 bridge,CT,0502-0003,344.4403076
+5,COHO,33.6,05-COHO-33.6,42.46141,-77.4724,Cohocton River,3 m below Wentworth Rd. bridge,CT,0502-0003,377.7627869
+5,COHO,37.2,05-COHO-37.2,42.49526,-77.50322,Cohocton River,100 m above Larrowe Mills Rd. bridge,CT,0502-0003,387.0223389
+5,COHO,50.9,05-COHO-50.9,42.59906,-77.5289,Cohocton River,20m downstream of farm rd crossing off of Tabors Corner Rd.,C(TS),0502-0018,462.4283752
+17,CONQ,1.4,17-CONQ-1.4,40.76306,-73.15167,Connetquot Brook,below hatchery in Connetquot State Park,B(TS),1701-0095,2.920835257
+5,COON,0.7,05-COON-0.7,42.29123,-77.04916,Coon Hollow Stream,10 m above Hornby Rd bridge to just under bridge,C,0502-0019,380.0226135
+6,CORL,0.3,06-CORL-0.3,42.20574,-75.53603,Cornell Creek,30m upstream from CR 41 bridge.,CT,0601-0130,298.5718994
+6,CRKL,0.4,06-CRKL-0.4,42.77661141,-76.15469171,West Branch Tiough River and minor tribs,entire stream and selected tribs,C,0602-0060,
+13,CROI,2.3,13-CROI-2.3,42.44618,-73.80679,Hannacrois Creek,100 m downstream of New Baltimore Rd. bridge,C(T),1301-0230,30.31884575
+13,CROI,16.2,13-CROI-16.2,42.49686,-73.9792,Hannacrois Creek,20m downstream of the Rte 32 bridge,A(TS),1301-0231,217.535614
+8,CRYS_T11,1.1,08-CRYS_T11-1.1,43.816071,-75.305744,Unnamed Tributary to Crystal Creek,ADK Park Rd.,C,0801-0315,360.0986023
+17,CSHA,1.9,17-CSHA-1.9,40.841467,-73.455218,Unnamed Tributary to Cold Spring Harbor,Harbor Rd;  north of Stillwell Lane; Stream is 25m west of road,C(T),1702-0156,19.03081322
+5,CUTH,0.6,05-CUTH-0.6,42.13489,-76.92789,Cuthrie Run,"Main St, CR 64",C,0501-0044,271.035614
+10,DART,0.1,10-DART-0.1,44.25625227,-73.79383366,Dart Brook,stream and selected tribs fr Upper Jay to Keene Valley,AA(T),1004-0071,
+6,DDLY_T6,1,06-DDLY_T6-1,42.37376,-76.12191,Unnamed Tributary to Dudley Creek,Hike upstream from Rt. 73 overpass.,C,0602-0037,379.7997131
+8,DEER,8.3,08-DEER-8.3,43.89222,-75.67278,Deer River,50 m above Rt. 12 bridge,C,0801-0263,346.9957581
+8,DEER,18.5,08-DEER-18.5,43.80312,-75.742883,Deer River,450 meters east off River Road at the intersection with Oneil Road,C,0801-0218,452.4017944
+6,DILA,5.4,06-DILA-5.4,42.37722,-75.405,Unadilla River,"50 m above Rt. 40 bridge
+250 m below bridge in 2013 due to high flow events",B,0601-0003,299.1231995
+6,DILA_W_T6,1.8,06-DILA_W_T6-1.8,42.90592663,-75.25339689,West Branch Unadilla River and tribs,entire stream and tribs,C(T),0601-0153,
+13,DOOD,0.4,13-DOOD-0.4,41.30103,-73.98634,Doodletown Brook,30m above SR 9W bridge,SC / C,1301-0134,6.110578537
+13,DOWE,1.9,13-DOWE-1.9,42.5775,-73.8137,Dowers Kill,at Elm Avenue E,C,1301-0239,39.52064514
+5,DRUN,3,05-DRUN-3,42.244,-77.101,Dry Run,Dry Run Rd just up from intersection with Duran rd.,C(TS),0502-0020,361.9489441
+6,DRYT,1.4,06-DRYT-1.4,42.59942789,-76.20369712,Dry Creek,entire stream and tribs,C(T),0602-0062,
+12,DUAN_T1,0.1,12-DUAN_T1-0.1,42.74628213,-74.10370417,"Normans Kill, Upper, and tribs","stream and tribs, above Pine Grove",B,1311-0005,
+11,DURG,0.2,11-DURG-0.2,43.9398,-73.9536,Durgin Brook,Trib to Boreas R; trail to site is halfway btwn pulloff after bridge over Boreas River & welcome sign to North Hudson (pallet at start of trail),NA,1104-0261,527.9210815
+13,DWAR,2,13-DWAR-2,41.62444,-74.19945,Dwaar Kill,10m above Bates Rd bridge,C,1306-0062,80.21891785
+8,EAGL,1,08-EAGL-1,43.77272,-74.82064,Eagle Creek,"Downstream of Big Moose Creek bridge, @ mouth of culvert",BT,0801-0374,524.6451416
+13,EBCR,16.3,13-EBCR-16.3,41.47769,-73.57745,East Branch Croton River,below rte 22 and confluence with small trib,C(T),1302-0057,129.8864899
+6,EDDY,3.6,06-EDDY-3.6,42.41791,-75.584178,Eddy Brook,entire stream and tribs,C,0602-0143,
+8,EDIK,3.7,08-EDIK-3.7,43.73244,-75.67106,Edick Creek,"5 m below CR 28, Flat Rock Rd",CT,0801-0269,559.2532959
+13,EIGT,0.6,13-EIGT-0.6,42.4355,-74.12272,Eightmile Creek,CR 403,C(TS),1309-0030,243.096344
+6,ELLS,1,06-ELLS-1,42.00833,-76.48083,Ellis Creek,30m upstream of Rte 17C bridge,C,0603-0023,241.531662
+17,EMED,0.4,17-EMED-0.4,40.664825,-73.569848,East Meadow Brook,50 m south of Babylon Tpke; just below bridge (next to entrance ramp for Meadowbrook State Pkwy),C(T),1701-0211,4.915076256
+13,ESOP,4.4,13-ESOP-4.4,42.03028,-73.97583,Lower Esopus Creek,"off Rte 9W, 0.5 miles above Glasco Turnpike bridge",B,1307-0010,15.8764677
+13,ESOP,16.1,13-ESOP-16.1,41.92889,-74.06611,Lower Esopus Creek,200 m below SR 29A bridge,B(T),1307-0003,47.48849487
+13,ESOP,21.7,13-ESOP-21.7,41.87889,-74.145,Lower Esopus Creek,"100 m below CR 5, Hurley Mountain Rd.bridge",B(T),1307-0003,59.99433136
+13,ESOP,28.7,13-ESOP-28.7,41.9269,-74.19798,Lower Esopus Creek,50 m downstream of covered bridge at Ashokan Camp property,B(T),1307-0003,101.5268173
+13,ESOP,29.6,13-ESOP-29.6,41.93404,-74.20405,Lower Esopus Creek,"Immediately downstream (200 m) of Ashokan waste channel, below SR 28A bridge",B(T),1307-0003,113.7013626
+6,FACT,3.2,06-FACT-3.2,42.66195,-76.20556,Factory Brook,100 m above Rt. 41 bridge,CTS,0602-0025,364.4599304
+8,FELT,0.3,08-FELT-0.3,44.01917,-75.76139,Felts Mills Creek,50 m above Rte 3 bridge,CT,0801-0241,186.5513153
+13,FISH,16.3,13-FISH-16.3,41.58778,-73.78972,Fishkill Creek,150 m below Augusta Dr. (CR 9) bridge,B(T),1304-0010,76.32582092
+5,FIVM,1.2,05-FIVM-1.2,42.38849,-77.35784,Fivemile Creek,10 m below Hemlock Rd. bridge,C,0502-0033,350.9083862
+5,FIVM,13,05-FIVM-13,42.51962,-77.27826,Fivemile Creek,30m below Co Rt 75 bridge,C,0502-0034,409.0389709
+6,FIVS,2.2,06-FIVS-2.2,42.457877,-75.796493,Five Streams,"Skillman-Hoffman Rd , above bridge",C(T),0602-0137,377.0312805
+17,FLAN_T,0.1,17-FLAN_T-0.1,40.903,-72.603, , ,C, ,
+8,FSHC,0.8,08-FSHC-0.8,43.66833,-75.35333,Fish Creek,"Fish Creek Rd.,off Grieg Rd. at DEC fishing access",CTS,0801-0225,233.7699585
+10,GCHZ,6.7,10-GCHZ-6.7,44.98694,-73.44945,Great Chazy River,50 m below Rt. 9 bridge,C,1002-0001,35.22276688
+10,GCHZ,33.1,10-GCHZ-33.1,44.864381,-73.693774,Great Chazy River,stream and tribs from Miner Lake to Chazy Lake,C(T),1002-0018,
+6,GEEB,2.2,06-GEEB-2.2,42.50917,-75.91732,Gee Brook,5m below Rtes 26/41 bridge,C,0602-0125,316.8327942
+6,GENE,11.2,06-GENE-11.2,42.422402,-75.790287,Genegantslet Creek,"stream and tribs, from Smithville Flats to McDonough",C(T),0602-0137,
+6,GENE,23,06-GENE-23,42.559585,-75.713318,Genegantslet Creek,CR 10,C(T),0602-0138,467.8531799
+13,GILO,0.1,13-GILO-0.1,41.38987,-73.67697,Lake Gilead Outlet,at Rock Mill Rd.,A(TS),1302-0102,125.1709213
+5,GLED,0.5,05-GLED-0.5,42.08022,-77.15833,Glendening Creek,off Presho School Rd,C,0503-0033,302.4248962
+5,GLED_N,0.1,05-GLED_N-0.1,42.07956,-77.16467,North Branch Glendening Creek,5 m above CR 5 at Glendening Rd,C,0503-0034,308.1619568
+5,GOFF,0.5,05-GOFF-0.5,42.38802,-77.41187,Goff Creek,20 m above Co. Rt. 70A bridge,CTS,0502-0013,362.5801392
+5,GOLT,1.8,05-GOLT-1.8,42.08325,-76.75383,Goldsmith Creek,"CR 1, Jerusalem Hill Rd",C,0501-0024,293.4682007
+10,GRAV,2.2,10-GRAV-2.2,44.89824269,-73.75644724,Graves Brook,entire stream and tribs,D,1002-0016,
+6,GREA_W,1.1,06-GREA_W-1.1,42.588448,-75.406755,West Branch Great Brook,entire stream and tribs,C(T),0601-0051,
+16,GREE,2.5,16-GREE-2.5,42.26139,-73.47056,Green River,10m below Rte 71 bridge,C(TS),1601-0032,285.0637817
+17,GREN,0.4,17-GREN-0.4,40.73639,-73.09167,Green Creek,Brook St @bridge,C(T),1701-0096,1.905568242
+7,GROU,1.5,07-GROU-1.5,42.74194,-76.26528,Grout Brook,Co Rte 101 @Sweeney Hill Rd bridge,AAT,0706-0001,298.1733398
+10,GULB,0.1,10-GULB-0.1,44.25677222,-73.79242903,Jones Brook,stream and selected tribs fr Upper Jay to Keene Valley,AA(T),1004-0071,
+10,GULB,0.6,10-GULB-0.6,44.25714,-73.782914,Jones Brook,stream and selected tribs fr Upper Jay to Keene Valley,AA(T),1004-0071,
+13,GUNK,0.4,13-GUNK-0.4,41.68722,-74.17278,Shawangunk Kill,150 m below Co. Rt. 9 bridge,B,1306-0045,59.3716774
+13,GUNK,37.7,13-GUNK-37.7,41.44134,-74.5298,Shawangunk Kill,"stream and tribs, from New Vernon to New Hope",B,1306-0047,
+13,GUNK,40.3,13-GUNK-40.3,41.42199,-74.5607,Shawangunk Kill,"stream and tribs, above New Hope",A,1306-0048,
+13,GUNK_T35,0.2,13-GUNK_T35-0.2,41.43961,-74.5389,Trib to Shawangunk Kill,"stream and tribs, from New Vernon to New Hope",B,1306-0047,
+15,HACK_E,1.5,15-HACK_E-1.5,41.13114,-73.95028,East Branch Hackensack River,20 m upstream of Svahn Drive,C,1501-0030,45.60300446
+6,HAIT,0.1,06-HAIT-0.1,42.66629862,-76.06582229,Trout Brook,stream and selected tribs from East Homer to Tripoli,C(T),0602-0132,
+10,HALF_T2,4.3,10-HALF_T2-4.3,43.471629,-73.504537,"Halfway Creek, Lower, and tribs",stream and selected tribs from mouth to Tripoli,C(TS),1005-0013,
+13,HAVI,2.3,13-HAVI-2.3,41.49445,-73.546118,Haviland Hollow Brook,20 m below Brimstone Rd. bridge,C(TS),1302-0057,139.7615051
+6,HAWL,1.9,06-HAWL-1.9,42.655247,-75.6238,Hawley Brook,entire stream and tribs,C(T),0602-0150,
+13,HLKS,1,13-HLKS-1,41.28611,-73.765,Hallocks Mill Brook,"Pinesbridge Rd; 100 m above bridge, below STP",A(T),1302-0049,108.4315414
+5,HOFF,0.8,05-HOFF-0.8,42.09147,-76.82686,Hoffman Creek,100 m above Hoffman bridge; Fassett St dead end,C,0501-0037,265.8524475
+10,HUDD,0.2,10-HUDD-0.2,43.53695,-73.66778,Huddle Brook,"20m above Rte 9, access through Melody Manor",AA-S,1006-0003,114.6817093
+6,HUNC,1.5,06-HUNC-1.5,42.82639,-75.46944,Hunt Creek,"Above Hill Rd bridge, off CR 89",CT,0602-0051,411.8204346
+13,HUNT,1.9,13-HUNT-1.9,41.25945,-73.84306,Hunter Brook,"Hunter Brook Rd., Mill Pond, 50 m above bridge",AA,1302-0047,72.41651154
+13,IDNK,0.5,13-IDNK-0.5,41.83883,-73.9348,Indian Kill,"In Mills-Norrie State Park, at a road/trail crossing in non-tidal portion of kill.",C,1301-0197,1.156829357
+8,INDY,4.6,08-INDY-4.6,43.73056,-75.36555,Independence River,20 m below Pine Grove Rd. bridge,CT,0801-0220,228.5439911
+8,INDY,6.7,08-INDY-6.7,43.7472,-75.3344,Independence River,Donnattsburg Rd bridge,CT,0801-0220,300.7462769
+7,JACB,1.9,07-JACB-1.9,42.683204,-77.051365,Jacobs Brook (trib to Keuka L outlet),Flat Street Bridge,D,0705-0020,244.7589874
+6,JAKC,0.4,06-JAKC-0.4,42.24386,-76.63246,Jackson Creek,at SR 224 bridge.,C,0603-0068,324.7278137
+5,JAKS,0.1,05-JAKS-0.1,42.17349,-76.73396,Jackson Creek,@SR 223 bridge,C,0501-0036,334.8882141
+10,JONS,0.8,10-JONS-0.8,44.18977,-73.79871,Johns Brook,50m above Johns Brook Rd,AA(T),1004-0074,343.3368835
+7,KDIG,10.4,07-KDIG-10.4,42.7867401,-76.8562746,Kendig Creek,At Secor Road bridge,C,0705-0024,199.1845551
+7,KEUK,0.3,07-KEUK-0.3,42.68037,-76.95396,Keuka Lake Outlet,Kings Landing Rd,CT,0705-0020,136.5426331
+7,KEUK,1.5,07-KEUK-1.5,42.67222,-76.96988,Keuka Lake Outlet,entire stream and tribs,C(T),0705-0020,
+7,KEUK,3.4,07-KEUK-3.4,42.66698,-76.9947,Keuka Lake Outlet,entire stream and tribs,C(T),0705-0020,
+7,KEUK,6.7,07-KEUK-6.7,42.6605,-77.04556,Keuka Lake Outlet,entire stream and tribs,C,0705-0020,
+7,KEUK,7.3,07-KEUK-7.3,42.65793,-77.05575,Keuka Lake Outlet,entire stream and tribs,C,0705-0020,
+7,KEUK_T3,1,07-KEUK_T3-1,42.65392,-76.98217,Keuka Lake Outlet and tribs,entire stream and tribs,D,0705-0020,
+7,KEUK_T6,1,07-KEUK_T6-1,42.64813,-76.99986,Keuka Lake Outlet and tribs,entire stream and tribs,D,0705-0020,
+13,KIND,0.2,13-KIND-0.2,42.31972,-73.74611,Kinderhook Creek,50 m below Van Buren Rd. and Rt. 25 intersection,C,1310-0021,4.812846184
+13,KIND,39.4,13-KIND-39.4,42.53972,-73.39417,Kinderhook Creek,5 m below Presbyterian Hill Rd.,C(TS),1310-0022,255.3043518
+13,KIND,42.8,13-KIND-42.8,42.53593,-73.34624,Kinderhook Creek,"off 43 on N Pease Rd, near MA border",C,1310-0022,287.9023743
+15,KJSTP,001,15-KJSTP-001,41.333069,-74.15887,Trib to Ramapo River,"stream and tribs, above Newburg Jct",C,1501-0037,
+13,KLEI,0.1,13-KLEI-0.1,41.76936,-74.09332,Kleine Kill,at Springtown Rd.,C,1306-0042,53.30760956
+8,KLSY,0.1,08-KLSY-0.1,43.98944,-75.92416,Kelsey Creek,5 m above RR bridge at Rt. 12E,C,0801-0191,117.269989
+7,KNDA,1.4,07-KNDA-1.4,42.7434193,-76.8953705,Kendaia Creek,At Route 96A bridge,C,0705-0073,178.1301117
+13,KROM,1.1,13-KROM-1.1,42.70361,-73.71611,Kromma Kill,20 m upstream of Rt. 32 bridge,D,1301-0027,8.535185814
+13,KRUM,2.5,13-KRUM-2.5,42.66833,-73.8275,Krum Kill,10 m below Russell Rd. bridge,C(T),1311-0010,55.31600189
+17,KVKL_T26,0.1,17-KVKL_T26-0.1,40.64450147,-74.10602503, , ,SD / B, ,
+13,LATT,5.7,13-LATT-5.7,41.65046,-74.00598,Lattintown Creek,off Gala Lane,C,1301-0193,137.9462738
+11,LBALL,1,11-LBALL-1,42.93677759,-73.86154079,Ballston Lake,LAKE,A,1101-0036,
+11,LBALL,2,11-LBALL-2,42.92403637,-73.86505513,Ballston Lake,LAKE,A,1101-0036,
+11,LBALL,3,11-LBALL-3,42.91218714,-73.86957398,Ballston Lake,LAKE,A,1101-0036,
+11,LBALL,4,11-LBALL-4,42.92503104,-73.86363152,Ballston Lake,LAKE,A,1101-0036,
+11,LBALL,5,11-LBALL-5,42.85000969,-73.86476113,Ballston Lake,LAKE,A,1101-0036,
+11,LBALL,6,11-LBALL-6,42.94740441,-73.85367827,Ballston Lake,LAKE,A,1101-0036,
+11,LBALL,7,11-LBALL-7,42.95590037,-73.85190086,Ballston Lake,LAKE,A,1101-0036,
+11,LBALL,8,11-LBALL-8,42.94333185,-73.85785686,Ballston Lake,LAKE,A,1101-0036,
+8,LBLK,5,08-LBLK-5,43.37583,-75.06805,Little Black Creek,Roberts Rd. bridge at DEC fishing access,CT,0801-0236,390.5853577
+10,LCHM_T117,1,10-LCHM_T117-1,43.63806233,-73.44650387,Minor Tribs to Lake Champlain,"total length of selected tribs, South Lake",C(T),1005-0020,
+10,LCHU,2,10-LCHU-2,43.84945,-73.42111,La Chute River,200 m above Elk Dr. bridge,D,1006-0017,39.58666992
+10,LCHZ,2.4,10-LCHZ-2.4,44.903335,-73.412067,Little Chazy River,10m below Stetson Rd bridge,C,1002-0003,32.0749321
+6,LEATO,1,06-LEATO-1,42.86227913,-75.69817019,Eaton Brook Reservoir,LAKE,B,0602-0041,
+6,LEATO,2,06-LEATO-2,42.86697003,-75.70939742,Eaton Brook Reservoir,LAKE,B,0602-0041,
+6,LEATO,3,06-LEATO-3,42.86195192,-75.70463828,Eaton Brook Reservoir,LAKE,B,0602-0041,
+6,LEATO,4,06-LEATO-4,42.85623468,-75.70383853,Eaton Brook Reservoir,LAKE,B,0602-0041,
+6,LEATO,5,06-LEATO-5,42.84931769,-75.70627754,Eaton Brook Reservoir,LAKE,B,0602-0041,
+6,LEATO,6,06-LEATO-6,42.85637343,-75.69877666,Eaton Brook Reservoir,LAKE,B,0602-0041,
+6,LEATO,7,06-LEATO-7,42.86072462,-75.69146398,Eaton Brook Reservoir,LAKE,B,0602-0041,
+6,LEATO,8,06-LEATO-8,42.8671143,-75.6880987,Eaton Brook Reservoir,LAKE,B,0602-0041,
+17,LEMN,1.3,17-LEMN-1.3,40.52528,-74.20972,Lemon Creek,30 m above Amboy Rd. & Maguire Ave. bridge,B,1701-0149,4.904396057
+10,LGEO_T_37,0.2,10-LGEO_T_37-0.2,43.41716463,-73.69941184,"Tribs to L.George, Village of L George",total length of selected tribs,AA-S,1006-0008,
+10,LGEO_T62,0.2,10-LGEO_T62-0.2,43.611,-73.628,"Tribs to L.George, Town of Bolton",total length of selected tribs,AA-S,1006-0022,
+10,LGEO_T78,0.1,10-LGEO_T78-0.1,43.666,-73.515,"Tribs to L.George, Town of Hague",total length of selected tribs,AA-S,1006-0024,
+10,LGLN,0.5,10-LGLN-0.5,43.377,-73.6157,Lower Glen Lake Brook,CR 39,AA(T),1005-0043,87.25776672
+13,LGUN,6,13-LGUN-6,41.45587,-74.4938,Little Shawangunk Kill,entire stream and tribs,B,1306-0059,
+13,LHUB_NYACK,0,13-LHUB_NYACK,41.08789824,-73.91313937,Hudson River,from Riverdale (Westch/Bronx Co line) to Bear Mt Brdg,SB,1301-0094,
+13,LHUD,0,13-LHUD-B2,41.505018,-73.9868796,Hudson River,from Bear Mountain Bridge to Roseton/Chelsea,B,1301-0003,
+13,LHUD,0,13-LHUD-B3,41.50306,-73.9868796,Hudson River,from Bear Mountain Bridge to Roseton/Chelsea,B,1301-0003,
+13,LHUD,50.6,13-LHUD-50.6,41.503888,-73.9875,Hudson River,from Bear Mountain Bridge to Roseton/Chelsea,B,1301-0003,
+13,LHUD,89.3,13-LHUD-89.3,42.06889,-73.92778,Lower Hudson River,Green buoy 91,A,1301-0276,0
+13,LHUD,104.6,13-LHUD-104.6,42.26245,-73.794172,Lower Hudson River,Green can buoy 135,A,1301-0276,0
+13,LHUD,119.6,13-LHUD-119.6,42.53893,-73.757633,Lower Hudson River,Buoy 205,C,1301-0002,0
+13,LHUD,133.4,13-LHUD-133.4,42.74433,-73.688323,Lower Hudson River,"Buoy 229, below Troy Dam",C,1301-0002,0
+13,LHUD_NEWBURGH,0,13-LHUD_NEWBURGH,41.49857395,-74.00606324,Hudson River,from Bear Mountain Bridge to Roseton/Chelsea,B,1301-0003,
+13,LHUD_OSSINING,0,13-LHUD_OSSINING,41.15702212,-73.86973692,Hudson River,from Riverdale (Westch/Bronx Co line) to Bear Mt Brdg,SB,1301-0094,
+13,LHUD_YONKERS,0,13-LHUD_YONKERS,40.95707358,-73.89915291,Hudson River,from Riverdale (Westch/Bronx Co line) to Bear Mt Brdg,SB,1301-0094,
+17,LIGO,0.5,17-LIGO-0.5,40.98722,-72.30028,Ligonee Creek,Rte 79,C,1701-0352,2.44502306
+10,LINC,2.6,10-LINC-2.6,44.428261,-73.944347,Lincoln Brook,"total length of selected tribs, above Franklin Falls Pd",C(T),1003-0071,
+13,LKIND,1,13-LKIND-1,42.44748086,-73.66334334,Kinderhook Lake,LAKE,B,1310-0002,
+13,LKIND,2,13-LKIND-2,42.44675326,-73.65624053,Kinderhook Lake,LAKE,B,1310-0002,
+13,LKIND,3,13-LKIND-3,42.44533273,-73.6511555,Kinderhook Lake,LAKE,B,1310-0002,
+13,LKIND,4,13-LKIND-4,42.44459052,-73.64836041,Kinderhook Lake,LAKE,B,1310-0002,
+13,LKIND,5,13-LKIND-5,42.45219871,-73.65053433,Kinderhook Lake,LAKE,B,1310-0002,
+13,LKIND,6,13-LKIND-6,42.45858362,-73.65071997,Kinderhook Lake,LAKE,B,1310-0002,
+13,LKIND,7,13-LKIND-7,42.46071837,-73.65709246,Kinderhook Lake,LAKE,B,1310-0002,
+13,LKIND,8,13-LKIND-8,42.45606815,-73.66050191,Kinderhook Lake,LAKE,B,1310-0002,
+13,LLINC,1,13-LLINC-1,41.34085938,-73.72763027,"	Lake Lincolndale",LAKE,B,1302-0089,
+13,LLINC,2,13-LLINC-2,41.33994786,-73.72752848,"	Lake Lincolndale",LAKE,B,1302-0089,
+13,LLINC,3,13-LLINC-3,41.34085305,-73.72591645,"	Lake Lincolndale",LAKE,B,1302-0089,
+13,LLINC,4,13-LLINC-4,41.34210455,-73.72433145,"	Lake Lincolndale",LAKE,B,1302-0089,
+13,LLINC,5,13-LLINC-5,41.34136397,-73.72298929,"	Lake Lincolndale",LAKE,B,1302-0089,
+13,LLINC,6,13-LLINC-6,41.34254787,-73.72272424,"	Lake Lincolndale",LAKE,B,1302-0089,
+13,LLINC,7,13-LLINC-7,41.34298666,-73.72489769,"	Lake Lincolndale",LAKE,B,1302-0089,
+13,LLINC,8,13-LLINC-8,41.34244516,-73.72700488,"	Lake Lincolndale",LAKE,B,1302-0089,
+12,LMARI,1,12-LMARI-1,42.82654168,-74.1376506,Mariaville Lake,LAKE,B,1201-0113,
+12,LMARI,2,12-LMARI-2,42.82434487,-74.13378314,Mariaville Lake,LAKE,B,1201-0113,
+12,LMARI,3,12-LMARI-3,42.82645754,-74.12421025,Mariaville Lake,LAKE,B,1201-0113,
+12,LMARI,4,12-LMARI-4,42.82804837,-74.12076329,Mariaville Lake,LAKE,B,1201-0113,
+12,LMARI,5,12-LMARI-5,42.82829277,-74.13426714,Mariaville Lake,LAKE,B,1201-0113,
+12,LMARI,6,12-LMARI-6,42.82425987,-74.13934155,Mariaville Lake,LAKE,B,1201-0113,
+12,LMARI,7,12-LMARI-7,42.82560633,-74.12872402,Mariaville Lake,LAKE,B,1201-0113,
+12,LMARI,8,12-LMARI-8,42.82888149,-74.12876768,Mariaville Lake,LAKE,B,1201-0113,
+13,LMOHE,1,13-LMOHE-1,41.31718941,-73.85452217,Lake Mohegan,LAKE,B,1301-0149,
+13,LMOHE,2,13-LMOHE-2,41.31552169,-73.84957984,Lake Mohegan,LAKE,B,1301-0149,
+13,LMOHE,3,13-LMOHE-3,41.31145611,-73.85127284,Lake Mohegan,LAKE,B,1301-0149,
+13,LMOHE,4,13-LMOHE-4,41.3080185,-73.85392494,Lake Mohegan,LAKE,B,1301-0149,
+13,LMOHE,5,13-LMOHE-5,41.31049448,-73.84805464,Lake Mohegan,LAKE,B,1301-0149,
+13,LMOHE,6,13-LMOHE-6,41.31531108,-73.84703828,Lake Mohegan,LAKE,B,1301-0149,
+13,LMOHE,7,13-LMOHE-7,41.31978697,-73.84991358,Lake Mohegan,LAKE,B,1301-0149,
+13,LMOHE,8,13-LMOHE-8,41.31949843,-73.85180591,Lake Mohegan,LAKE,B,1301-0149,
+8,LOLO,3.4,08-LOLO-3.4,43.51777,-75.20434,Long Lake Outlet,40m upstream of Round Pond Rd,C(T),0801-0415,392.6600952
+13,LPEAC,1,13-LPEAC-1,41.36326969,-73.58670096,Peach Lake,LAKE,B,1302-0004,
+13,LPEAC,2,13-LPEAC-2,41.3595744,-73.58119702,Peach Lake,LAKE,B,1302-0004,
+13,LPEAC,3,13-LPEAC-3,41.35715946,-73.57703166,Peach Lake,LAKE,B,1302-0004,
+13,LPEAC,4,13-LPEAC-4,41.35734557,-73.57260437,Peach Lake,LAKE,B,1302-0004,
+13,LPEAC,5,13-LPEAC-5,41.36115943,-73.57348385,Peach Lake,LAKE,B,1302-0004,
+13,LPEAC,6,13-LPEAC-6,41.36557272,-73.57609622,Peach Lake,LAKE,B,1302-0004,
+13,LPEAC,7,13-LPEAC-7,41.36874544,-73.58150004,Peach Lake,LAKE,B,1302-0004,
+13,LPEAC,8,13-LPEAC-8,41.36844621,-73.58601388,Peach Lake,LAKE,B,1302-0004,
+13,LPNAM,1,13-LPNAM-1,41.46181304,-73.54219286,Putnam Lake,LAKE,B,1302-0053,
+13,LPNAM,2,13-LPNAM-2,41.45784686,-73.54251993,Putnam Lake,LAKE,B,1302-0053,
+13,LPNAM,3,13-LPNAM-3,41.46098341,-73.53741486,Putnam Lake,LAKE,B,1302-0053,
+13,LPNAM,4,13-LPNAM-4,41.46694975,-73.5365354,Putnam Lake,LAKE,B,1302-0053,
+13,LPNAM,5,13-LPNAM-5,41.47239531,-73.53557177,Putnam Lake,LAKE,B,1302-0053,
+13,LPNAM,6,13-LPNAM-6,41.47759217,-73.53710258,Putnam Lake,LAKE,B,1302-0053,
+13,LPNAM,7,13-LPNAM-7,41.47168188,-73.53962618,Putnam Lake,LAKE,B,1302-0053,
+13,LPNAM,8,13-LPNAM-8,41.46721434,-73.54349902,Putnam Lake,LAKE,B,1302-0053,
+17,LREL_T8,0.5,17-LREL_T8-0.5,41.18906,-73.547876,Minor Tribs to Connecticut,total length of selected tribs entering CT,AA-S,1702-0135,
+10,LSAB,5.7,10-LSAB-5.7,44.59417,-73.49639,Little Ausable River,50m above Fuller Rd bridge @Northway (Northbound),C,1004-0018,72.42144012
+10,LSAB,23.4,10-LSAB-23.4,44.49444779,-73.64778814,Little Ausable River,stream and tribs above dam in Peru,A(T),1004-0021,
+10,LSAR_T10,0.3,10-LSAR_T10-0.3,44.329961,-74.28817,Tribs to Upper Saranac Lake,total length of all tribs,AA(T),1003-0087,
+13,LWAP,3.5,13-LWAP-3.5,41.83389,-73.81889,Little Wappinger Creek,20m above Halstead Rd,B,1305-0019,83.35471344
+6,LYON,0.3,06-LYON-0.3,42.462915,-75.547991,Lyon Brook,entire stream and tribs,C(T),0602-0148,
+5,MALL,0.1,05-MALL-0.1,42.0547,-76.62339,Mallory Creek,20 m above CR 3,C,0501-0019,286.3999939
+17,MAMR,0.3,17-MAMR-0.3,40.95222,-73.73444,Mamaroneck River,100 m above Ward Ave. bridge,C,1702-0123,4.603546619
+17,MAMR,6.7,17-MAMR-6.7,41.0183,-73.7266,Mamaroneck River,"Below Corporate Park Dr. bridge, btw E&W Westchest",C,1702-0123,30.94029617
+17,MAMR_T12,0.7,17-MAMR_T12-0.7,41.04113388,-73.74026396,"Mamaroneck River, Upper, and minor tribs",entire stream and selected tribs above Route 1,C,1702-0123,
+13,MANY,1.3,13-MANY-1.3,41.49333,-74.29389,Manayunk Kill,5m below VanAmburg & Kaisertown Rd bridge,C,1306-0070,118.9791794
+13,MASO,0.2,13-MASO-0.2,41.43765,-74.372867,Masonic Creek,"at County Route 50 (Golf Links Road) overpass, upstream of confluence with Wallkill River",B,1306-0072,112.6179428
+17,MASS,1.2,17-MASS-1.2,40.68167,-73.46056,Massapequa River,150 m above Clark Ave.,C(T),1701-0174,3.769030571
+5,MCHE,1.5,05-MCHE-1.5,42.29771,-77.76152,McHenry Valley Creek,off McHenry Valley Rd;40 m above Stevens Rd bridge,C,0503-0026,440.696167
+3,MCRK,0.4,03-MCRK-0.4,43.95280008,-76.10246658,Mill Creek,Miliatary road stream crossing,C,0303-0044,81.87974548
+5,MDCR,0.9,05-MDCR-0.9,42.29023,-77.22003,Mud Creek,@Rte 415 bridge,C,0502-0025,317.8523254
+6,MDUF,2.7,06-MDUF-2.7,42.253636,-76.583934,McDuffy Creek,"stream and select tribs, from Van Etten to Cayuta",C,0603-0065,
+5,MEAD,2.1,05-MEAD-2.1,42.19293,-77.141882,Meads Creek,300 m upstream of Meads Creek Rd. bridge,CT,0502-0008,294.3023682
+10,METT,11.1,10-METT-11.1,43.45283,-73.32356,Mettawee River,75 m above CR 12 bridge ,C(T),1005-0003,85.35704803
+17,MIAN,13.3,17-MIAN-13.3,41.19389,-73.62473,Mianus River,40 m below Millers Mill Rd. bridge,AA-S,1702-0136,106.2105942
+17,MIAN,14.2,17-MIAN-14.2,41.20139,-73.63389,Mianus River,Middle Patent Rd. bridge,AA-S,1702-0136,105.4640961
+17,MIAN_E_T5,0.4,17-MIAN_E_T5-0.4,41.169757,-73.590008,Minor Tribs to Connecticut,total length of selected tribs entering CT,AA-S,1702-0135,
+6,MICI,3.7,06-MICI-3.7,42.27917,-76.49111,Michigan Creek,Signor Hill Rd,CT,0603-0055,334.6363831
+5,MIGA,0.4,05-MIGA-0.4,42.22966,-77.20564,Michigan Creek,CR 333; 70 & 90 m upstream,C,0502-0023,315.4555359
+8,MILB,0.6,08-MILB-0.6,43.51194,-75.31944,Mill Creek,30m below DeVoe Rd. bridge,C,0801-0201,283.5020142
+10,MILC,3.6,10-MILC-3.6,44.06114571,-73.50703784,Mill Brook,entire stream and selected tribs,C(T),1001-0017,
+8,MILE,0.7,08-MILE-0.7,43.52561,-75.2995,Mile Creek,30 m below Joslyn Rd,CT,0801-0408,291.7580261
+4,MILH,0.1,04-MILH-0.1,42.78913,-77.51446,Mill Creek,Off Main St,C,0402-0071,245.3181458
+4,MILH,0.1,04-MILH-0.1,42.78913,-77.51446,Mill Creek,Off Main St,C,0402-0071,245.3181458
+4,MILH,0.9,04-MILH-0.9,42.78587,-77.49913,Mill Creek,"East Lake Rd,  just below bridge",C,0402-0071,255.3022919
+4,MILH,0.9,04-MILH-0.9,42.78587,-77.49913,Mill Creek,"East Lake Rd,  just below bridge",C,0402-0071,255.3022919
+17,MILI,2.9,17-MILI-2.9,41.2125,-73.55305,Mill River,20m above stone bridge,AA-S,1702-0137,125.1092224
+13,MILL,6.7,13-MILL-6.7,42.61278,-73.69556,Mill Creek,20 m above Michaels Rd. bridge,C(TS),1301-0246,75.91091156
+17,MILR,5.3,17-MILR-5.3,40.704312,-73.658096,Mill River,10 m downstream of Chesman St.,C,1701-0221,13.04114342
+10,MKEN,1.4,10-MKEN-1.4,44.253198,-74.222559,McKenna Brook,total length of all tribs,AA,1003-0082,
+8,MLCK_T2,0.1,08-MLCK_T2-0.1,43.62847,-75.41475,Unnamed Tributary  to Mill Creek,"In Town Park, off SR 26",CT,0801-0342,386.5480957
+8,MLLL,1.8,08-MLLL-1.8,43.78305,-75.47861,Mill Creek,15 m below E. State Street bridge,D,0801-0200,232.4812317
+8,MLLL_N,0.1,08-MLLL_N-0.1,43.78417,-75.49889,North Branch Mill Creek,20 m below Cemetery St. bridge,C,0801-0317,264.8256531
+8,MLLL_S,0.4,08-MLLL_S-0.4,43.78083,-75.50166,South Branch Mill Creek,100 m below Cemetery Rd. bridge,C,0801-0200,292.3772583
+13,MONH,0.4,13-MONH-0.4,41.42361,-74.38111,Monhagen Brook,"20 m above Golf Links Rd. bridge, 4.1mi. below STP",C,1306-0074,112.5496368
+13,MONH,4.1,13-MONH-4.1,41.42833,-74.42389,Monhagen Brook,200 m upstream of Middletown STP discharge,C,1306-0074,145.1663971
+8,MOOC,0.4,08-MOOC-0.4,43.52194,-75.34528,Moose Creek,200 m below East Rd. bridge,C,0801-0232,322.3495483
+13,MOOD,0.8,13-MOOD-0.8,41.45833,-74.03028,Moodna Creek,@CR 74 bridge,C,1303-0010,1.990022063
+8,MOOS,2.5,08-MOOS-2.5,43.62259,-75.315398,Moose River,Above Lowdale Rd bridge,CT,0801-0226,301.6082764
+8,MOOS,16.8,08-MOOS-16.8,43.6125,-75.10111,Moose River,200 m above Rt.28 bridge; dirt rd. off SR 28 to river,CT,0801-0226,449.8523254
+8,MOOS_M,3.9,08-MOOS_M-3.9,43.66222,-75.07306,Middle Branch Moose River,off Minnehaha Rd.; off Rt. 28,C,0801-0228,507.2697754
+8,MOOS_S,0.1,08-MOOS_S-0.1,43.6425,-74.95472,South Branch Moose River,100m above Bisby Rd. bridge-Adirondack League Club,CT,0801-0227,480.242218
+6,MUDO,1.3,06-MUDO-1.3,42.6,-75.87833,Mud Creek,entire stream and tribs,C(T),0602-0068,
+8,MURM,3.4,08-MURM-3.4,43.884,-75.3472,Murmur Creek,20 m upstream of Lehman Rd.,C(T),0801-0219,270.8006287
+6,NANG_T26,1.3,06-NANG_T26-1.3,42.335531,-75.77861,Minor Tribs to Middle Chenango River,"total length of selected tribs, Chenango Fks to Oxford",C,0602-0136,
+6,NANG_W,0.3,06-NANG_W-0.3,42.884058,-75.638408,West Branch Chenango River,200 m above Hart Rd. bridge,CT,0602-0165,380.3312683
+10,NBAY,6.5,10-NBAY-6.5,43.69252499,-73.5925905,Northwest Bay Brook,entire stream and tribs,AA-S,1006-0023,
+5,NEWT_T30,0.4,05-NEWT_T30-0.4,42.201117,-76.663515,Unnamed Tributary to Newtown Creek,40m below Swartwood Hill Rd,C,0501-0030,408.6808167
+10,NICO,1,10-NICO-1,44.269447,-73.835122,Nichols Brook,stream and selected tribs fr Upper Jay to Keene Valley,AA(T),1004-0071,
+6,NING_T,1.2,06-NING_T-1.2,42.66143464,-75.98309931,Cheningo Creek and tribs,entire stream and tribs,C(T),0602-0058,
+17,NISS,6,17-NISS-6,40.84889,-73.225,Nissequogue River,"Rt. 25, Caleb State Park, above USGS gage",C(TS),1702-0235,3.083664894
+13,NORM,3.7,13-NORM-3.7,42.63445,-73.8,Normans Kill,200 m above Delaware Ave. (Rt. 443) bridge,B,1311-0010,24.48381042
+13,NORM,21.4,13-NORM-21.4,42.71369,-73.95533,Normans Kill,"Off French Mills Rd, to the left behind Watervliet Water Supply building",C,1311-0002,57.72310257
+13,NORM,25.7,13-NORM-25.7,42.76458,-74.0026,Normans Kill,100 m above Giffords Church Rd,A,1311-0018,80.08272552
+13,NOST,0.3,13-NOST-0.3,42.09708,-73.54494,Noster Kill,Immediately above Rte 7A bridge,C(T),1308-0021,161.7639008
+6,NVUS,0.9,06-NVUS-0.9,42.48556,-74.96944,Schenevus Creek,50 m below bridge on road off I-88 Exit 17,C,0601-0062,335.4124146
+6,NVUS,6.4,06-NVUS-6.4,42.51865022,-74.90913511,Schenevus Creek,"stream and tribs, from mouth to near Schenevus",C(T),0601-0062,
+6,NVUS_T28,3.5,06-NVUS_T28-3.5,42.653764,-74.692196,"Schenevus Creek, Upper and minor tribs",entire stream and selected tribs,A(TS),0601-0169,
+6,NWIN,0.2,06-NWIN-0.2,42.88417,-75.18861,North Winfield Creek,"Town park, 120m below Rte 20 bridge",CT,0601-0035,364.3266602
+6,NWIN,0.2,06-NWIN-0.2,42.88417,-75.18861,North Winfield Creek,"Town park, 120m below Rte 20 bridge",CT,0601-0035,364.3266602
+6,NWIN,5.6,06-NWIN-5.6,42.94095984,-75.19344776,North Winfield Creek,entire stream and tribs,C(T),0601-0035,
+4,OATK,4.2,04-OATK-4.2,43.01026,-77.7921,Oatka Creek,30 m above Union St bridge;DEC fishing access area,BTS,0402-0027,173.2908478
+4,OATK,4.2,04-OATK-4.2,43.01026,-77.7921,Oatka Creek,30 m above Union St bridge;DEC fishing access area,BTS,0402-0027,173.2908478
+4,OATK,5.8,04-OATK-5.8,43.00563,-77.82015,Oatka Creek,120 m below Wheatland Center Rd bridge,BTS,0402-0027,176.1927185
+4,OATK,5.8,04-OATK-5.8,43.00563,-77.82015,Oatka Creek,120 m below Wheatland Center Rd bridge,BTS,0402-0027,176.1927185
+4,OATK_T17,0.2,04-OATK_T17-0.2,42.862,-78.053,Unammed Tributary to Oatka Creek,Above Starr Rd,C,0402-0031,288.5884094
+4,OATK_T17,0.2,04-OATK_T17-0.2,42.862,-78.053,Unammed Tributary to Oatka Creek,Above Starr Rd,C,0402-0031,288.5884094
+4,OATK_T17,0.4,04-OATK_T17-0.4,42.864,-78.054,Unammed Tributary to Oatka Creek,Hudson Rd,C,0402-0031,294.7611389
+4,OATK_T17,0.4,04-OATK_T17-0.4,42.864,-78.054,Unammed Tributary to Oatka Creek,Hudson Rd,C,0402-0031,294.7611389
+15,OCSDSTP,001,15-OCSDSTP-001,41.3104996,-74.1431091,Ramapo River,"stream and tribs, above Newburg Jct",C,1501-0037,
+8,OLMS,0.3,08-OLMS-0.3,43.5462,-75.4015,Olmstead Creek,10 m above West Rd,C,0801-0231,359.3900452
+7,ONID,4,07-ONID-4,43.20467637,-76.21776609,Oneida River,portion from mouth to Oneida Lake,B,0703-0020,
+17,OROW,0.6,17-OROW-0.6,40.73306,-73.22556,Orowoc Creek,10 m below Moffitt Blvd. culvert,C(T),1701-0094,2.568107128
+17,OROW,2,17-OROW-2,40.751098,-73.228009,Orowoc Creek,stream and tribs above Montauk Highway (freshwater),C(T),1701-0094,
+6,OTGO,10.8,06-OTGO-10.8,42.532129,-75.084072,Otego Creek,"Downstream of County Rte 11A, at first bend in river",C(T),0601-0161,329.0501709
+6,OTGO_W,3.5,06-OTGO_W-3.5,42.62412,-75.080234,West Branch Otego Creek,entire stream and tribs,C(TS),0601-0165,
+6,OTTC,0.2,06-OTTC-0.2,42.60722,-76.1825,Otter Creek,50 m below North Main St. bridge,C,0602-0061,339.7285767
+13,OTTK,2.4,13-OTTK-2.4,41.45634,-74.20895,Otter Kill Creek,50 m below impoundment,C,1303-0025,101.165184
+8,OTTR,12.1,08-OTTR-12.1,43.71695,-75.22111,Otter Creek,Logging rd off Partridgeville Rd,CT,0801-0224,402.036438
+6,OULE,0.6,06-OULE-0.6,42.333176,-75.287505,Ouleout Creek,stream and tribs from mouth to Handsome Br nr Brooklyn,C(T),0601-0054,
+6,OULE,8.4,06-OULE-8.4,42.33139,-75.17639,Ouleout Creek,dirt rd opp. intersection of Rt 357 & CR21,CT,0601-0057,356.3078613
+6,OWGO_W_T2,0.1,06-OWGO_W_T2-0.1,42.173476,-76.252419,"West Branch Owego Cr, Lower, and tribs","stream and tribs, from mouth to Jenksville",C,0603-0011,
+17,PACH,0.4,17-PACH-0.4,40.76556,-73.02084,Patchogue River,"50 m below Montauk Highway, above STP",C,1701-0099,1.545190334
+6,PAGE,8.7,06-PAGE-8.7,42.2735,-75.7427,Page Brook,stream and tribs above Quinnevile,C,0602-0122,
+13,PATS,0.5,13-PATS-0.5,42.66444,-73.74667,Patroon Creek,"Pleasant St., off N. Pearl, behind Amer. Boiler Co",C(T),1301-0030,17.93317223
+13,PATS,1.3,13-PATS-1.3,42.67157804,-73.75795799,Patroons Creek,from south end of Houghtaling Island to Troy Dam,C,1301-0002,
+13,PATS,1.8,13-PATS-1.8,42.67277305,-73.76453779,Patroons Creek,from south end of Houghtaling Island to Troy Dam,C,1301-0002,
+6,PAYN,0.4,06-PAYN-0.4,42.79083,-75.56194,Payne Brook,5 m below Middleport Rd. bridge,C,0602-0003,334.2770386
+17,PECN,7.6,17-PECN-7.6,40.905502,-72.742968,Peconic River,Edwards Ave bridge,C,1701-0261,7.370212555
+17,PECN,12.4,17-PECN-12.4,40.881235,-72.810457,Peconic River,stream and tribs above P565a (freshwater),C,1701-0108,
+17,PECN,14.9,17-PECN-14.9,40.867433,-72.838412,Peconic River,"North Street; Turn left onto unnamed road; go 55m
+
+
+to road crossing",C,1701-0108,12.52448559
+17,PECN_T6,0.8,17-PECN_T6-0.8,40.890779,-72.806949,Unnamed Tributary to Peconic River,Off Old River Road,C,1701-0266,12.85212231
+17,PENA,1.4,17-PENA-1.4,40.73028,-73.24416,Penataquit Creek,5m above Redington Rd bridge/culvert,C,1701-0092,3.856660843
+6,PERK,1.2,06-PERK-1.2,42.64577599,-75.78090618,Minor Tribs to Upper Otselic River,"total length of select tribs, fr Cincinnatus to Otselic",C,0602-0162,
+13,PERR,1.5,13-PERR-1.5,41.40632,-74.15423,Perry Creek,"off Mountain Lodge Road, just above small pond",C,1303-0011,126.9195328
+13,PETK,6.1,13-PETK-6.1,41.73412,-74.23907,Peters Kill,"Just inside Park Entrance, 50m above bridge next to Awosting Falls carriageway",B(T),1306-0100,416.436554
+8,PHIL,0.3,08-PHIL-0.3,44.00394,-75.97823,Philomel Creek,at St Lawrence Ave  E,C,0801-0196,96.86399841
+13,PKIL,0.4,13-PKIL-0.4,41.72528,-74.10472,Platte Kill,10m above Rte 208 bridge,B(T),1306-0044,56.85930634
+6,PLEA,1.5,06-PLEA-1.5,42.719861,-74.768578,Pleasant Brook,entire stream and tribs,C(T),0601-0175,
+6,PLES,4.7,06-PLES-4.7,42.693653,-75.602641,Pleasant Brook,entire stream and selected tribs,C,0602-0071,
+13,POCH,1.8,13-POCH-1.8,41.317902,-74.474664,Pochuck Creek,"stream and select tribs, above Middletown",C,1306-0017,
+6,PONY,0.2,06-PONY-0.2,42.278278,-76.692328,Pony Hollow Creek,entire stream and tribs,C(T),0603-0069,
+5,POSC,1.3,05-POSC-1.3,42.1587,-77.05453,Post Creek,30 m above RR bridge and Rt.414 bridge,C,0501-0047,285.0197144
+5,POSC_T5,0.9,05-POSC_T5-0.9,42.226545,-76.972573,Unnamed Tributary to Post Creek,350 meters upstream of Rte 414,C,0501-0004,368.8635559
+13,POST,0.8,13-POST-0.8,42.71972,-73.68333,Poesten Kill,150 m above Spring Ave. bridge,C(T),1301-0068,8.746821404
+13,POST,18.4,13-POST-18.4,42.68806,-73.48917,Poesten Kill,at CR 41 bridge 1.5 mi. east of Fifty-six Rd.,C(TS),1301-0255,339.2843018
+6,PRCK,0.3,06-PRCK-0.3,42.09369586,-75.82377048,Park Creek,entire stream and tribs,C,0601-0031,
+6,PRCK,3.2,06-PRCK-3.2,42.09975958,-75.77734061,Park Creek,entire stream and tribs,C,0601-0031,
+6,PROP,0.1,06-PROP-0.1,42.2625,-76.37611,Prospect Valley Creek,10m below Rte 96B bridge,C,0603-0032,282.8578796
+8,PSAN,0.1,08-PSAN-0.1,43.938251,-75.70102,Unnamed Tributary to Lake Pleasant,at Humphrey Rd,A,0801-0261,325.3130188
+10,PUTM,4.5,10-PUTM-4.5,43.9411441,-73.47099809,Putnam Creek,stream and tribs from mouth to Ironville/Penfield Pond,C(T),1005-0011,
+10,PUTM,13.2,10-PUTM-13.2,43.87472,-73.54056,Putnam Creek,"Bear Pond Rd, off CR 96",C(T),1005-0015,290.2427979
+13,QKER,0.9,13-QKER-0.9,41.32722,-74.41639,Quaker Creek,30 m below Rt. 6 bridge,C,1306-0025,118.7566833
+13,QUAK,0.2,13-QUAK-0.2,41.49944,-73.53361,Quaker Brook,150 m above Rte 68 bridge,C(TS),1302-0057,154.5541992
+13,QUAS,0.3,13-QUAS-0.3,41.48806,-74.01305,Quassaic Creek,200 m above River Rd. bridge,C,1301-0079,5.513079643
+15,RAMA,1.1,15-RAMA-1.1,41.12516,-74.164555,Ramapo River,50 m above 4th St. bridge,A,1501-0012,82.95847321
+15,RAMA,4.8,15-RAMA-4.8,41.1621,-74.1887,Ramapo River,"stream and select tribs, from state line to Tuxedo Park",A(T),1501-0012,
+15,RAMA,11.8,15-RAMA-11.8,41.250157,-74.168322,Ramapo River,"stream and tribs, from Tuxedo Park to Newburg Jct",A(T),1501-0036,
+15,RAMA,13.3,15-RAMA-13.3,41.27361,-74.15334,Ramapo River,0.2 mi south of Arden bridge; end of Water St.,A(T),1501-0036,157.2926178
+15,RAMA,15,15-RAMA-15,41.295406,-74.138624,Ramapo River,"stream and tribs, above Newburg Jct",C,1501-0037,
+15,RAMA,16.1,15-RAMA-16.1,41.30722,-74.13695,Ramapo River,at Nepera plant bridge,C,1501-0037,158.5602264
+15,RAMA,16.5,15-RAMA-16.5,41.31,-74.14278,Ramapo River,50 m downstream of Route 17 bridge,C,1501-0037,159.0495453
+15,RAMA,16.7,15-RAMA-16.7,41.31028,-74.14361,Ramapo River,5 m below Monroe Park pond,B,1501-0037,158.6549072
+15,RAMA,16.8,15-RAMA-16.8,41.31222,-74.14889,Ramapo River,20 m below River Rd. bridge,B,1501-0037,163.0219879
+15,RAMA,18.6,15-RAMA-18.6,41.32377,-74.1723,Ramapo River,"stream and tribs, above Newburg Jct",B,1501-0037,
+15,RAMA_T25_3,0.2,15-RAMA_T25_3-0.2,41.33503,-74.16146,Trib to Ramapo River,"stream and tribs, above Newburg Jct",C,1501-0037,
+15,RAMA_T25_3,0.3,15-RAMA_T25_3-0.3,41.33482257,-74.16073786,Trib to Ramapo River,"stream and tribs, above Newburg Jct",C,1501-0037,
+15,RAMA_T25_3,0.6,15-RAMA_T25_3-0.6,41.33243,-74.15426,Trib to Ramapo River,"stream and tribs, above Newburg Jct",C,1501-0037,
+15,RAMA_T25_3_STRMWTR,0.3,15-RAMA_T25_3_STRMWTR-0.3,41.33518387,-74.1613608,Trib to Ramapo River,"stream and tribs, above Newburg Jct",C,1501-0037,
+17,RARI_T50,0.2,17-RARI_T50-0.2,40.526756,-74.169723,"Staten Island Tribs, South",total length of selected (freshwater) tribs,B,1701-0188,
+17,RATT,0.1,17-RATT-0.1,40.74722,-73.14584,Rattlesnake Creek,between Rt. 27A and L.I. RR tracks,B(TS),1701-0095,0
+7,REED,0.1,07-REED-0.1,42.7862,-76.927,Reeder Creek,300' west of intersection with 125,C(T),0705-0074,136.2133484
+7,REED,2.3,07-REED-2.3,42.7881889,-76.8869591,Reeder Creek,At crossing of Army Depot Access Road,C,0705-0074,182.3667755
+9,REGI,2.3,09-REGI-2.3,44.974659,-74.65951,St. Regis River,"Downstream of Hogansburg dam, downstream of tail race at Red Oak eddy",C,0902-0093,45.69199753
+9,REGI,2.3,09-REGI-2.3,44.974659,-74.65951,St. Regis River,"Downstream of Hogansburg dam, downstream of tail race at Red Oak eddy",C,0902-0093,45.69199753
+9,REGI,2.7,09-REGI-2.7,44.9736,-74.6648,St. Regis River,off Mill Street,C,0902-0093,48.59199905
+9,REGI,2.7,09-REGI-2.7,44.9736,-74.6648,St. Regis River,off Mill Street,C,0902-0093,48.59199905
+9,REGI,2.8,09-REGI-2.8,44.973359,-74.665303,St. Regis River,"Upstream of Hogansburg dam, directly behind dam in impoundment",C,0902-0093,48.59199905
+9,REGI,2.8,09-REGI-2.8,44.973359,-74.665303,St. Regis River,"Upstream of Hogansburg dam, directly behind dam in impoundment",C,0902-0093,48.59199905
+9,REGI,3.1,09-REGI-3.1,44.970293,-74.669004,St. Regis River,"Upstream of Hogansburg dam, at river bend upstream of Church St. boat launch",C,0902-0093,48.59199905
+9,REGI,3.1,09-REGI-3.1,44.970293,-74.669004,St. Regis River,"Upstream of Hogansburg dam, at river bend upstream of Church St. boat launch",C,0902-0093,48.59199905
+9,REGI,3.3,09-REGI-3.3,44.966484,-74.667082,St. Regis River,"Upstream of Hogansburg dam, at upstream boundary of impoundment/dam influence",C,0902-0093,48.59199905
+9,REGI,3.3,09-REGI-3.3,44.966484,-74.667082,St. Regis River,"Upstream of Hogansburg dam, at upstream boundary of impoundment/dam influence",C,0902-0093,48.59199905
+9,REGI,4,09-REGI-4,44.960252,-74.672748,St. Regis River,selected to be another control out of influence of dam removal,C,0902-0093,48.59199905
+9,REGI,4,09-REGI-4,44.960252,-74.672748,St. Regis River,selected to be another control out of influence of dam removal,C,0902-0093,48.59199905
+9,REGI,7.8,09-REGI-7.8,44.92444,-74.72222,St. Regis River,Rte 37C bridge,B,0902-0094,51.69199753
+9,REGI,7.8,09-REGI-7.8,44.92444,-74.72222,St. Regis River,Rte 37C bridge,B,0902-0094,51.69199753
+13,RHIN,4.3,13-RHIN-4.3,41.9575,-73.89584,Rhinebeck Kill,10 m below Rt. 9G bridge,C,1301-0210,46.44818115
+10,RICH_T1,0.5,10-RICH_T1-0.5,45.00266029,-73.36798324,Minor Tribs to Lake Champlain,"total length of selected tribs, Main Lake North",D,1002-0023,
+13,RIOG,0.7,13-RIOG-0.7,41.40115,-74.359233,Rio Grande,"at 6 1/2 Station Road overpass, downstream of Village of Goshen",C,1306-0061,115.3704453
+8,ROAR,2.2,08-ROAR-2.2,43.74124,-75.42462,Roaring Brook,40 m above Rt. 12D bridge,C,0801-0222,232.0427246
+10,ROCY,0.1,10-ROCY-0.1,44.371,-73.71639,Rocky Branch Brook,30m above Hazen Rd,C(T),1004-0073,189.6767426
+13,ROLF,2.4,13-ROLF-2.4,42.15306,-73.84472,Roeliff Jansen Kill,30 m above Dales Bridge Rd. bridge,C,1308-0010,15.64965916
+13,ROND,9.9,13-ROND-9.9,41.84278,-74.08583,Rondout Creek,40 m above Rt. 213 bridge,B,1306-0088,13.18449974
+13,ROND,32.2,13-ROND-32.2,41.75083,-74.35056,Rondout Creek,10m below Port Ben Rd,C(T),1306-0089,81.0482254
+13,ROND_T6,1.9,13-ROND_T6-1.9,41.87236,-74.01783,Unnamed Tributary to Rondout Creek-Sugarbush Creek,200 m off Union Center Rd,C,1306-0032,64.43286133
+10,ROUT,1.3,10-ROUT-1.3,43.34988,-73.69271,Rush Pond Outlet,SR 9,AA,1005-0045,124.1769333
+13,RUTG,1.5,13-RUTG-1.5,41.335792,-74.487986,Rutgers Creek,20 meters downstream of County Rte 12,C,1306-0006,117.2632523
+10,SABL,2.2,10-SABL-2.2,44.55889,-73.44917,Ausable River,100 m above Rt. 9 bridge,C(T),1004-0015,30.28980637
+10,SABL,7.6,10-SABL-7.6,44.504102,-73.481615,Ausable River,"stream and selected tribs, abv Ausable Chasm to E/W Br",C,1004-0020,
+10,SABL_E,1.9,10-SABL_E-1.9,44.41817,-73.67925,East Branch ausable River,off rt 9,C(T),1004-0014,174.7627411
+10,SABL_E,5.8,10-SABL_E-5.8,44.37723394,-73.71493845,East Branch Ausable River,stream and selected tribs from mouth to Upper Jay,C(T),1004-0014,
+10,SABL_E,7.6,10-SABL_E-7.6,44.36606415,-73.73314426,East Branch Ausable River,stream and selected tribs from mouth to Upper Jay,C(T),1004-0014,
+10,SABL_E,13.5,10-SABL_E-13.5,44.2986243,-73.7945355,East Branch Ausable River,stream and selected tribs fr Upper Jay to Keene Valley,C(T),1004-0071,
+10,SABL_E,17.2,10-SABL_E-17.2,44.25583,-73.79512,East Branch Ausable River,150 m above Rt. 73 bridge,AA,1004-0071,250.5937805
+10,SABL_E,22.9,10-SABL_E-22.9,44.18855129,-73.78397937,East Branch Ausable River,stream and tribs above Keene Valley,AA,1004-0072,
+10,SABL_E_T18,0.1,10-SABL_E_T18-0.1,44.3208549,-73.77846248,"East Br Ausable, Middle, and tribs",stream and selected tribs fr Upper Jay to Keene Valley,C(T),1004-0071,
+10,SABL_W,25.6,10-SABL_W-25.6,44.25722,-73.9625,West Branch Ausable River,50 m below Rte. 73 bridge at Olympic ski jump,C(T),1004-0056,513.9901733
+10,SAMN,4.2,10-SAMN-4.2,44.64056,-73.495,Salmon River,50 m above Salmon River Rd. bridge,C(T),1004-0010,69.77045441
+5,SAMO,1.2,05-SAMO-1.2,42.40842,-77.4125,Salmon Creek,@Grant St bridge,C,0502-0036,362.7142029
+17,SAMP,0.4,17-SAMP-0.4,40.7042,-73.3136,Sampawams Creek,100 m above Union Blvd. bridge; below LI RR tracks,C(T),1701-0090,3.055365562
+17,SANT,1.7,17-SANT-1.7,40.69162,-73.3552,Santapogue Creek,stream and tribs above Montauk Highway (freshwater),C(T),1701-0016,
+10,SARA,0.9,10-SARA-0.9,44.69194,-73.45333,Saranac River,Saranac St. bridge,C(T),1003-0049,34.49729919
+10,SARA,8.5,10-SARA-8.5,44.69667,-73.55278,Saranac River,"off Banker Rd., near apartment complex",C,1003-0049,101.8412094
+13,SAW,1.4,13-SAW-1.4,40.93694,-73.88639,Saw Mill River,Center St.; 1 block north of USGS gaging station,C,1301-0007,30.81925964
+5,SEEL,4,05-SEEL-4,42.05278,-76.82195,Seeley Creek,100 m below Rt 14 bridge,C,0501-0013,267.7746887
+5,SEEL,7.6,05-SEEL-7.6,42.0334,-76.8772,Seeley Creek,10 m below Pennsylvania Ave. bridge,CT,0501-0013,296.9121704
+13,SHAB,0.3,13-SHAB-0.3,41.79131,-73.66424,Shaw Brook,Below Route 44,A(T),1305-0023,198.6934967
+10,SHDD,0.2,10-SHDD-0.2,44.94784928,-73.55541167,"Minor Tribs to Great Chazy River, Lower","total length of selected tribs, fr mouth to North Br",D,1002-0011,
+17,SISO_T2,0.2,17-SISO_T2-0.2,41.20115946,-73.52920848,Minor Tribs to Connecticut,total length of selected tribs entering CT,AA-S,1702-0135,
+7,SKAT_T2,0.1,07-SKAT_T2-0.1,42.92439,-76.40494,Minor Tribs to Skaneateles Lake,total length of selected tribs to Skaneateles L,AA,0707-0005,
+7,SKAT_T89,0.2,07-SKAT_T89-0.2,42.89772,-76.41917,Minor Tribs to Skaneateles Lake,total length of selected tribs to Skaneateles L,AA,0707-0005,
+13,SKIL,6.3,13-SKIL-6.3,42.0246,-74.08024,Saw Kill,off Zena Rd at site coords,NA,1307-0018,115.0272903
+13,SKIL,13.9,13-SKIL-13.9,42.06725,-74.16046,Saw Kill,at McDaniels Rd,C(TS),1307-0019,289.2865601
+6,SLEB,6.3,06-SLEB-6.3,42.768119,-75.69213697,South Lebanon Brook,entire stream and tribs,C,0602-0156,
+8,SLVR,0.3,08-SLVR-0.3,43.69389,-74.60306,Silver Run,entrance to Moose R. rec.area;opposite wetland,CT,0801-0346,618.7594604
+10,SMIB,0.5,10-SMIB-0.5,43.482507,-73.694585,Smith Brook,"10m above Rt 9, south of Diamond Pt Rd",AA-S,1006-0004,155.6938019
+8,SNDC,1.1,08-SNDC-1.1,43.89773,-75.33376,Sandy Creek,"at Erie Canal Rd., 5 m downstream",C(T),0801-0213,275.4940491
+10,SOUL,1,10-SOUL-1,44.70554638,-73.81930072,South Inlet,total length of selected tribs,AA(T),1002-0021,
+13,SPAR,7.1,13-SPAR-7.1,41.06222,-73.94583,Spar Kill,15 m above Greenbush Rd,C(T),1301-0106,36.74085999
+17,SPIN,0.1,17-SPIN-0.1,40.938989,-73.839151,Grassy Sprain Brook,stream and tribs above Bronx-Westchester Co. line,C,1702-0107,
+5,STEO,9.7,05-STEO-9.7,42.11616,-77.29913,Canisteo River,40 m below Newcomb Rd. bridge,C,0503-0006,301.5982056
+5,STEO,28.7,05-STEO-28.7,42.25261,-77.51772,Canisteo River,above Catatunk Rd. bridge,C,0503-0012,325.1009216
+5,STEO,35.7,05-STEO-35.7,42.28617,-77.6244,Canisteo River,5 m below Magee Rd. bridge,C,0503-0001,338.8872986
+5,STEO,55.4,05-STEO-55.4,42.36968,-77.854257,Canisteo River,At Lunn Road Bridge,C,0503-0013,520.5516357
+5,STEO_T22,0.2,05-STEO_T22-0.2,42.199,-77.407,Unnamed Tributary to Canisteo River,At Canisteo River Road / County Rte 119 Bridge,CT,0503-0006,323.5716248
+3,STNE,3.8,03-STNE-3.8,43.84555,-76.18139,Stony Creek,"Along SR 178, behind firehouse",CT,0303-0009,95.26605988
+8,STNK,1.9,08-STNK-1.9,43.91014,-75.58486,Stony Creek,100 m upstream of SR 26,C,0801-0270,242.0931702
+13,STNY,0.8,13-STNY-0.8,42.04925,-73.91007,Stony Creek,200 m below Kidd Lane bridge,A(T),1301-0219,22.89700699
+13,STNY,1.7,13-STNY-1.7,42.05913,-73.90649,Stony Creek,300 m upstream of Broadway,A(T),1301-0219,29.57915306
+9,STRB,0.2,09-STRB-0.2,44.4255,-74.3442,St. Regis Brook,800m south of Keeses Mill rd Access trail is obvious from road. Park on side of road,D,0902-0096,496.8443909
+8,SUND,0.2,08-SUND-0.2,43.87022,-75.13825,Sunday Creek,Moshier Falls Rd,CT,0801-0210,443.4058533
+6,SUSQ,6.9,06-SUSQ-6.9,42.02917,-76.40056,Lower Susquehanna River,"300 m below Rt. 282 bridge
+Access across river at Bridge St",B,0603-0016,233.022995
+6,SUSQ,31.1,06-SUSQ-31.1,42.09275113,-76.05628992,Susquehanna River,from Ross Corners to Binghamton,A,0603-0002,
+13,SWAK,1.7,13-SWAK-1.7,41.84395784,-74.03726589,Swarte Kill,entire stream and tribs,B,1306-0039,
+16,SWEL,0.1,16-SWEL-0.1,41.73461,-73.58067,Seven Wells Brook,5 m below Rte 22 bridge,A,1601-0023,117.1291885
+17,SWML,1.4,17-SWML-1.4,40.92528,-72.64972,Sawmill Creek,East Main St. culvert,C,1701-0257,4.623552322
+16,SWMP,6.8,16-SWMP-6.8,41.64683,-73.56862,Swamp River,Pleasant Ridge Rd,C(T),1601-0015,126.6063766
+6,TALE,0.6,06-TALE-0.6,42.715074,-75.312334,Tallette Creek,entire stream and tribs,C(T),0601-0150,
+5,TANC,1.2,05-TANC-1.2,42.04317,-77.11189,Tannery Creek,Tannery Creek Rd; opp. Davis Rd,C,0503-0010,340.8242493
+8,TANE,0.7,08-TANE-0.7,43.67705,-75.34291,Tannery Creek,"at Middle Rd, 5 m upstream of culvert",C(T),0801-0338,254.2905731
+13,TINW,0.5,13-TINW-0.5,41.573251,-74.18353,Tin Brook,"stream and tribs, from mouth to Walden",A,1306-0068,
+5,TMLV,0.7,05-TMLV-0.7,42.44781,-77.46022,Twelvemile Creek,30m above Rt 415 bridge,CTS,0502-0040,377.7661438
+5,TMLV,7.8,05-TMLV-7.8,42.514739,-77.390314,Twelvemile Creek,10m above CR 9 bridge,C(T),0502-0040,433.1921997
+5,TOGA,1.3,05-TOGA-1.3,42.14205,-77.10939,Tioga River,100 m below RR bridge at Lumber St.,C,0503-0004,284.7559814
+5,TOGA,6.3,05-TOGA-6.3,42.08313,-77.14874,Tioga River,200m below Presho-Lindley Rd bridge,C,0503-0004,290.9530029
+6,TOGH,29.8,06-TOGH-29.8,42.56805,-76.12167,Tioughnioga River,50 m above Blodgett Mills bridge,B,0602-0002,328.3383484
+6,TOGH_E,0.1,06-TOGH_E-0.1,42.60639,-76.15833,East Branch Tioughnioga River,at Rt. 12 and Rt. 81 overpasses; thru Yaman Park,CT,0602-0020,329.072998
+10,TRAE,4.5,10-TRAE-4.5,44.855734,-73.489449,Tracy Brook,stream and tribs from mouth to West Chazy,D,1002-0003,
+13,TRAV,2.7,13-TRAV-2.7,42.011792,-74.303649,Traver Hollow Brook,200m upstream of Bradkin Rd,B(TS),1307-0007,332.8947144
+5,TRPS,9.5,05-TRPS-9.5,42.04261,-77.54943,Troups Creek,10m above Hopper Hill Rd bridge (one-lane),C,0503-0038,480.4241028
+5,TUSC,0.5,05-TUSC-0.5,42.10327,-77.23372,Tuscarora Creek,@South St bridge,C,0503-0016,297.045929
+5,TUSC,12.8,05-TUSC-12.8,42.07932,-77.40748,Tuscarora Creek,at bend in road on Washington St-150m bel Main St,C,0503-0018,399.4870911
+17,TUTL,2.1,17-TUTL-2.1,40.775,-73.03361,Tuthills Creek,off Mowbray,C(TS),1701-0098,7.236525059
+8,TWIT,0.9,08-TWIT-0.9,43.85081,-74.9978,Twitchell Creek,"Dirt road off of Big Moose Rd (43 51 03.6,      74 59 53.6)",CT,0801-0211,525.9350586
+10,TWOB,1.3,10-TWOB-1.3,44.40855,-74.08427,Twobridge Creek,40m above Rte 3,C(T),1003-0070,467.3226013
+10,TWOB,3.6,10-TWOB-3.6,44.4123,-74.1113,Twobridge Brook,20m above CR 55,C(T),1003-0070,470.4863281
+14,UNVR,51,14-UNVR-51,41.89305,-74.58667,Upper Neversink River,at Hunter Rd. bridge,B(T),1402-0022,469.4095764
+6,USSQ,154.7,06-USSQ-154.7,42.66689,-74.94513,Upper Susquehanna River,50 m above bridge; 10 m above Oak Cr. confluence,B,0601-0041,360.4901123
+17,VALL,2.2,17-VALL-2.2,40.6731,-73.6976,Valley Stream,End of West Fenimore St. (in park),C,1701-0225,3.600709677
+13,VERK,2.9,13-VERK-2.9,41.628,-74.331,Verkeerder Kill,Sinsabaugh Rd,A(T),1306-0054,131.3335266
+6,WACT_E,4.3,06-WACT_E-4.3,42.631174,-75.61955,East  Branch Canasawacta Creek,50 m West off County Road 16,NA,0602-0150,394.1947937
+13,WALK,0.7,13-WALK-0.7,41.84705,-74.04382,Wallkill River,entire lake,B,1306-0037,
+13,WALK,0.8,13-WALK-0.8,41.84881,-74.04101,Wallkill River,entire lake,B,1306-0037,
+13,WALK,2.1,13-WALK-2.1,41.825296,-74.047202,Wallkill River,"Off SR 213, near Dashville",B,1306-0027,39.62513351
+13,WALK,9.8,13-WALK-9.8,41.765737,-74.092973,Wallkill River,from Sturgeon Pond to Tuthill,B,1306-0027,
+13,WALK,13.3,13-WALK-13.3,41.73004,-74.109888,Wallkill River,"Libertyville Rd.(CR 7), 2 mi. above Rt. 299 bridge",B,1306-0027,56.91059875
+13,WALK,15,13-WALK-15,41.72124,-74.132787,Wallkill River,200 meters east off Albany Post Road/County Rte 7 at coordinates 41.718401/-74.151538,B,1306-0040,53.37998962
+13,WALK,19,13-WALK-19,41.68306,-74.16444,Wallkill River,Lazy River campground-20 m above Shawangunk confl.,B,1306-0045,59.5894165
+13,WALK,22.8,13-WALK-22.8,41.635,-74.18889,Wallkill River,10 m above bridge,B,1306-0038,66.87203217
+13,WALK,26.9,13-WALK-26.9,41.5763,-74.1907167,Wallkill River,"Downstream of Tin Brook, SR 208",B,1306-0038,77.42019653
+13,WALK,29.9,13-WALK-29.9,41.54217,-74.20946,Wallkill River,Access via Park on Farm Meadow Lane,B,1306-0038,98.4447403
+13,WALK,35.6,13-WALK-35.6,41.5025,-74.26334,Wallkill River,20 m below Rt. 211 bridge,B,1306-0038,103.8732834
+13,WALK,44.4,13-WALK-44.4,41.438788,-74.365652,Wallkill River,from Tuthill to Middletown,B,1306-0038,
+13,WALK,46.6,13-WALK-46.6,41.41222,-74.37806,Wallkill River,at Echo Lake Rd. bridge,C,1306-0017,115.5734634
+13,WALK,60.1,13-WALK-60.1,41.29083,-74.53056,Wallkill River,"Oil City Rd at USFWS Wildlife Refuge (before 2017, samples were taken 0.4 miles off State Line Rd. on farm road)",C,1306-0017,116.2331848
+13,WALK_T13,1.3,13-WALK_T13-1.3,41.75489,-74.08368,Unnamed Tributary to Wallkill River,at North Chestnut St.,C,1306-0040,60.03420258
+13,WALK_T44,3,13-WALK_T44-3,41.42274,-74.32401,Unnamed Tributary to Wallkill River,"Just off Scotchtown Rd, past Julie Lynn Dr",NA,1306-0061,122.1922989
+5,WANE,0.5,05-WANE-0.5,42.471559,-77.098189,Tribs to Waneta Lake,total length of all tribs to Waneta Lake,C,0502-0029,
+13,WAPP,5,13-WAPP-5,41.62556,-73.8925,Wappinger Creek,100 m above Jackson Rd. bridge,NA,1306-0061,31.54288483
+13,WAPP,10.7,13-WAPP-10.7,41.68361,-73.86667,Wappinger Creek,100 m below Rte. 55 bridge,B(T),1305-0013,47.93238449
+13,WAPP,15.9,13-WAPP-15.9,41.74194,-73.82861,Wappinger Creek,behind Town Hall,B(T),1305-0013,57.86673355
+13,WAPP,21.8,13-WAPP-21.8,41.80389,-73.7825,Wappinger Creek,Hibernia Rd.,B(TS),1305-0014,70.9990387
+13,WAPP,29.2,13-WAPP-29.2,41.86917,-73.71416,Wappinger Creek,"stream and select tribs, fr Pleasnt Val to Stanfrdville",B(TS),1305-0014,
+13,WAPP_E,0.1,13-WAPP_E-0.1,41.81357,-73.759,East Branch Wappinger Creek,10 m below Hibernia Rd bridge,B,1305-0022,76.21772766
+16,WASS,1.2,16-WASS-1.2,41.795,-73.5525,Wassaic Creek,100m above Co.Rte 81,C(T),1601-0024,129.0118713
+13,WASS,1.2,13-WASS-1.2,41.795,-73.5525,Wassaic Creek,entire stream and tribs,C(T),1601-0024,
+13,WAWA,4.5,13-WAWA-4.5,41.23833,-74.41805,Wawayanda Creek,15 m below Ryerson Rd. bridge,C(T),1306-0079,129.9914398
+13,WBCR,0.5,13-WBCR-0.5,41.35221,-73.67067,West Branch Croton,at Butlerville Rd,A(TS),1302-0092,62.16316605
+13,WCHEE,0.6,13-WCHEE-0.6,41.4086,-74.373,Cheechunk Creek,Hartley Rd,C,1306-0061,113.0611496
+4,WCOTN,0.2,04-WCOTN-0.2,42.68,-78.117,Cotton Creek,Off SR 19,NA,NA,404.3721313
+4,WCOTN,0.2,04-WCOTN-0.2,42.68,-78.117,Cotton Creek,Off SR 19,NA,NA,404.3721313
+4,WCOTN,0.5,04-WCOTN-0.5,42.677,-78.119,Cotton Creek,Off SR 19,NA,NA,405.62854
+4,WCOTN,0.5,04-WCOTN-0.5,42.677,-78.119,Cotton Creek,Off SR 19,NA,NA,405.62854
+8,WDER,2.2,08-WDER-2.2,43.7508,-75.7555,West Branch Deer River,entire stream and tribs,C(T),0801-0267,
+10,WESB,1.4,10-WESB-1.4,44.59305,-73.9868,West Brook,Hike in on logging Rd,C(T),1003-0038,464.7526245
+6,WHAR,13.9,06-WHAR-13.9,42.71042,-75.19549,Wharton Creek,Mill Road North,CT,0601-0145,370.7938538
+13,WKLEI,0.6,13-WKLEI-0.6,41.7749,-74.0975,Kleine Kill,Dug Rd,C,1306-0042,54.02000046
+13,WNORM_T13,1.9,13-WNORM_T13-1.9,42.78429,-74.01434,Unnamed Tributary to Normans Kill,"just below Rte 7, might sample from Schalmont highschool near tennis courts",C(T),1311-0018,103.368187
+13,WOOD,0.8,13-WOOD-0.8,41.4,-74.08222,Woodbury Creek,50 m below Industry Drive bridge,C(TS),1303-0014,78.94475555
+13,WOOD,2,13-WOOD-2,41.38593,-74.09782,Woodbury Creek,sample from  orange tree nursery Owner took us to hole in deer fence where he said we can sample,C(TS),1303-0014,89.83891296
+13,WPALG,3.4,13-WPALG-3.4,41.676,-74.2626,Palmaghatt Kill,Aumick Rd,A(T),1306-0050,156.8100891
+13,WPLCK,9.8,13-WPLCK-9.8,42.123,-74.0211,Plattekill Creek,"CR 35, Blue Mountain Rd",A(TS),1307-0014,105.8673172
+13,WQUAS,9.8,13-WQUAS-9.8,41.5846,-74.0786,Quassaick Creek,Mill St,A,1301-0184,158.5556793
+13,WQUAS,9.8,13-WQUAS-,41.5845276,-74.07817452,Quassaic Creek,"stream and tribs, from Chadwick Lake to Rossville",A,1301-0184,
+13,WSART,0.5,13-WSART-0.5,41.145585,-73.860611,Sparta Brook,Just on upstream side of SR 9 culvert,SC / C,1301-0117,19.00799751
+10,WSBR,0.2,10-WSBR-0.2,43.41833,-73.71083,West Brook,30 m below foot bridge; opposite Action Park,AA-S,1006-0008,100.9450302
+9,WSCK,6.3,09-WSCK-6.3,44.02867,-75.83029,West Creek,20 m upstream of Rte 342 overpass/culvert,A(T),0906-0043,146.5331421
+13,WYNT,0.7,13-WYNT-0.7,42.70361,-73.68972,Wynants Kill,50 m below Rt.4 bridge,C,1301-0066,41.90358734
+13,XFBK,0.1,13-XFBK-0.1,41.71691,-74.28063,Fly Brook,"In Minnewaska State Park, 30m below culvert on Lower Awosting carriageway",C(T),1306-0100,515.0598755
+13,XFBK,1.2,13-XFBK-1.2,41.7121,-74.2987,Fly Brook,"In Minnewaska State Park, upstream of firebreak road, near bedrock clearing",C(T),1306-0100,526.4638062
+13,XSDK,4.2,13-XSDK-4.2,41.73957,-74.25497,Sanders Kill,"Between park entrance Kerhonkson, off Rtes 44/55",AA(T),1306-0106,355.1388855
+13,XSTK,0.9,13-XSTK-0.9,41.77688,-74.22823,Stony Kill,at Stony Kill Rd,AA(T),1306-0106,77.12727356
+13,XSTK,4.8,13-XSTK-4.8,41.74585,-74.28118,Stony Kill,"East of Kerhonkson, off Rtes 44/55",AA(T),1306-0106,239.7088013
+6,YALE,3.4,06-YALE-3.4,42.33821207,-75.48117285,Yaleville Brook,total length of select tribs from Nineveh to Sidney,C(T),0601-0186,
+6,YALE,5.4,06-YALE-5.4,42.35760331,-75.49606556,Yaleville Brook,stream and tribs above Cooper Corners,A(T),0601-0187,
